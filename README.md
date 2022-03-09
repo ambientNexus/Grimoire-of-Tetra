@@ -1,9 +1,11 @@
-# Tetranomicon
+# Tetranomicon 1.18 Port
 
-Adds Tetra support to resources from Abnormals mods, BetterEnd, BOP, BYG, Create, Enderite, Ice and Fire, Outer End, Quark, Unearthed, and Wyrmroost.
+A port of Syrikal's Tetranomicon Mod for 1.18.
+Adds Tetra support to resources from Abnormals mods, BetterEnd, BOP, BYG, Create, Enderite, Ice and Fire, Outer End, Quark, Unearthed, and Wyrmroost. 
+Some materials might not be available for 1.18, in which case 
 
 # Materials List
-## Abnormals Mods
+~~## Abnormals Mods~~ Not Yet Updated to 1.18
 All wood types from Atmospheric, Autumnity, Bamboo Blocks, Endergetic Expansion, Environmental, Upgrade Aquatic:
  - Rosewood
  - Morado
@@ -20,10 +22,10 @@ All wood types from Atmospheric, Autumnity, Bamboo Blocks, Endergetic Expansion,
  - Willow
  - Wisteria
 
-##Bayou Blues
+~~## Bayou Blues~~ Not Yet Updated to 1.18
  - Cypress wood
 
-## Better End
+~~## Better End~~ Not Yet Updated to 1.18
  - Thallasium
  - Terminite
  - Aeternium
@@ -43,7 +45,7 @@ All wood types from Atmospheric, Autumnity, Bamboo Blocks, Endergetic Expansion,
  - Flavolite: like cobblestone but extremely durable.
  - Eternal Runed Flavolite: Has a durability nearly 12 times higher than netherite, making it all but unbreakable. Otherwise identical to cobblestone.
 
-##Biomes O'Plenty
+## Biomes O'Plenty
  - Cherry
  - Dead: hard and durable, and more enchantable than Hellbark.
  - Hellbark: hard and durable, and as good at mining as stone.
@@ -113,7 +115,7 @@ Wood:
 ## Enderite
  - Enderite: major modules grant the Void Floating improvement, which keeps the tools from falling into the Void.
 
-## Ice & Fire
+~~## Ice & Fire~~ Not Yet Updated to 1.18
  - Dragon and sea serpent scales can be used to wrap hilts, grips, and handles. All will improve durability, damage, swing speed, and reduce negative item effects such as Ender Reverb and Blazing.
  - Fire dragon scales give better damage and reduce Blazing more
  - Ice dragon scales give better durability
@@ -122,7 +124,7 @@ Wood:
  - Dragonsteel (please note: it has no effects, is not affected by the I&F config, and you can't directly modify existing dragonsteel tools.)
  - Dragonbone and witherbone are compatible with Tetra by default.
 
-## Outer End
+~~## Outer End~~ Not Yet Updated to 1.18
  - Azure wood
  - Crystal shards can be socketed: rose for damage, mint for efficiency, cobalt for Intuit (like lapis).
 
