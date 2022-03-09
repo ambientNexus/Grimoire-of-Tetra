@@ -6,6 +6,7 @@ Some materials might not be available for 1.18, in which case
 
 # Materials List
 ~~## Abnormals Mods~~ Not Yet Updated to 1.18
+
 All wood types from Atmospheric, Autumnity, Bamboo Blocks, Endergetic Expansion, Environmental, Upgrade Aquatic:
  - Rosewood
  - Morado
@@ -23,9 +24,11 @@ All wood types from Atmospheric, Autumnity, Bamboo Blocks, Endergetic Expansion,
  - Wisteria
 
 ~~## Bayou Blues~~ Not Yet Updated to 1.18
+
  - Cypress wood
 
 ~~## Better End~~ Not Yet Updated to 1.18
+
  - Thallasium
  - Terminite
  - Aeternium
@@ -116,6 +119,7 @@ Wood:
  - Enderite: major modules grant the Void Floating improvement, which keeps the tools from falling into the Void.
 
 ~~## Ice & Fire~~ Not Yet Updated to 1.18
+
  - Dragon and sea serpent scales can be used to wrap hilts, grips, and handles. All will improve durability, damage, swing speed, and reduce negative item effects such as Ender Reverb and Blazing.
  - Fire dragon scales give better damage and reduce Blazing more
  - Ice dragon scales give better durability
@@ -125,6 +129,7 @@ Wood:
  - Dragonbone and witherbone are compatible with Tetra by default.
 
 ~~## Outer End~~ Not Yet Updated to 1.18
+
  - Azure wood
  - Crystal shards can be socketed: rose for damage, mint for efficiency, cobalt for Intuit (like lapis).
 
@@ -147,7 +152,8 @@ Wood:
  - Schist
  - Limestone
 
-## Wyrmroost
+~~## Wyrmroost~~ Not Yet Updated to 1.18
+
  - Blue Geode: roughly equal to diamond. Can be socketed.
  - Red Geode: better than Blue. Can be socketed for benefits between Diamond and Pristine Diamond.
  - Purple Geode: better than Red. Can be socketed for benefits better than Pristine Diamond. Highest tool level in the game.
