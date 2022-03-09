@@ -5,7 +5,7 @@ Adds Tetra support to resources from Abnormals mods, BetterEnd, BOP, BYG, Create
 Some materials might not be available for 1.18, in which case 
 
 # Materials List
-~~## Abnormals Mods~~ Not Yet Updated to 1.18
+~~Abnormals Mods~~ Not Yet Updated to 1.18
 
 All wood types from Atmospheric, Autumnity, Bamboo Blocks, Endergetic Expansion, Environmental, Upgrade Aquatic:
  - Rosewood
@@ -23,11 +23,11 @@ All wood types from Atmospheric, Autumnity, Bamboo Blocks, Endergetic Expansion,
  - Willow
  - Wisteria
 
-~~## Bayou Blues~~ Not Yet Updated to 1.18
+~~Bayou Blues~~ Not Yet Updated to 1.18
 
  - Cypress wood
 
-~~## Better End~~ Not Yet Updated to 1.18
+~~Better End~~ Not Yet Updated to 1.18
 
  - Thallasium
  - Terminite
@@ -118,7 +118,7 @@ Wood:
 ## Enderite
  - Enderite: major modules grant the Void Floating improvement, which keeps the tools from falling into the Void.
 
-~~## Ice & Fire~~ Not Yet Updated to 1.18
+~~Ice & Fire~~ Not Yet Updated to 1.18
 
  - Dragon and sea serpent scales can be used to wrap hilts, grips, and handles. All will improve durability, damage, swing speed, and reduce negative item effects such as Ender Reverb and Blazing.
  - Fire dragon scales give better damage and reduce Blazing more
@@ -152,7 +152,7 @@ Wood:
  - Schist
  - Limestone
 
-~~## Wyrmroost~~ Not Yet Updated to 1.18
+~~Wyrmroost~~ Not Yet Updated to 1.18
 
  - Blue Geode: roughly equal to diamond. Can be socketed.
  - Red Geode: better than Blue. Can be socketed for benefits between Diamond and Pristine Diamond.
