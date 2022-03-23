@@ -19,9 +19,9 @@
         "default"
     ],
     "material": {
-        "item": "byg:shulkren_vine"
+        "items": [ "byg:shulkren_vine" ]
     },
     "requiredTools": {
-        "cut": 3
+        "cut": "minecraft:iron"
     }
 }
