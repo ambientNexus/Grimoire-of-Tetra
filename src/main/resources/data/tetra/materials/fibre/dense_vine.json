@@ -19,9 +19,9 @@
         "default"
     ],
     "material": {
-        "item": "betterendforge:dense_vine"
+        "items": [ "betterendforge:dense_vine" ]
     },
     "requiredTools": {
-        "cut": 4
+        "cut": "minecraft:iron"
     }
 }
