@@ -22,6 +22,6 @@
         "items": [ "betterendforge:dense_vine" ]
     },
     "requiredTools": {
-        "cut": "minecraft:iron"
+        "cut": "minecraft:diamond"
     }
 }
