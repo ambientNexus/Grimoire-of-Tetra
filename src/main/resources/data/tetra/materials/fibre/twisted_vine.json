@@ -19,9 +19,9 @@
         "default"
     ],
     "material": {
-        "item": "betterendforge:twisted_vine"
+        "items": [ "betterendforge:twisted_vine" ]
     },
     "requiredTools": {
-        "cut": 3
+        "cut": "minecraft:iron"
     }
 }
