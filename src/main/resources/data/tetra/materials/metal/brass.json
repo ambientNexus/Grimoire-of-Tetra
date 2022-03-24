@@ -19,10 +19,10 @@
 	"default"
    ],
    "material": {
- 	"item":"create:brass_ingot"
+ 	"items":[ "forge:ingots/brass" ]
    },
 
    "requiredTools":{
-	"hammer":2
+	"hammer": "minecraft:stone"
    }
 }
