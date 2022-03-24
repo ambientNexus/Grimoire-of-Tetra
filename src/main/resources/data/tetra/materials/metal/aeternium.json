@@ -19,10 +19,10 @@
         "default"
     ],
     "material": {
-        "item": "betterendforge:aeternium_ingot",
+        "items": [ "betterendforge:aeternium_ingot", ]
         "count": 1
     },
     "requiredTools": {
-        "hammer": 6
+        "hammer": "minecraft:netherite"
     }
 }
