@@ -12,8 +12,8 @@ apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
 version = '1.0'
-group = 'com.ambientNexus.GrimoreOfTetra' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'GrimoreOfTetra'
+group = 'com.ambientNexus.GrimoireOfTetra' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'GrimoireOfTetra'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
@@ -29,10 +29,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'GrimoreOfTetra'
+            property 'forge.enabledGameTestNamespaces', 'GrimoireOfTetra'
 
             mods {
-                GrimoreOfTetra {
+                GrimoireOfTetra {
                     source sourceSets.main
                 }
             }
@@ -45,10 +45,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'GrimoreOfTetra'
+            property 'forge.enabledGameTestNamespaces', 'GrimoireOfTetra'
 
             mods {
-                GrimoreOfTetra {
+                GrimoireOfTetra {
                     source sourceSets.main
                 }
             }
@@ -61,10 +61,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'GrimoreOfTetra'
+            property 'forge.enabledGameTestNamespaces', 'GrimoireOfTetra'
 
             mods {
-                GrimoreOfTetra {
+                GrimoireOfTetra {
                     source sourceSets.main
                 }
             }
@@ -77,10 +77,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            args '--mod', 'GrimoreOfTetra', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
+            args '--mod', 'GrimoireOfTetra', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
 
             mods {
-                GrimoreOfTetra {
+                GrimoireOfTetra {
                     source sourceSets.main
                 }
             }
@@ -101,7 +101,7 @@ dependencies {
 jar {
     manifest {
         attributes([
-                "Specification-Title"     : "GrimoreOfTetra",
+                "Specification-Title"     : "GrimoireOfTetra",
                 "Specification-Vendor"    : "Nexus",
                 "Specification-Version"   : "1", // We are version 1 of ourselves
                 "Implementation-Title"    : project.name,
