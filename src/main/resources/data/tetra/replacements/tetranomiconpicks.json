@@ -1,7 +1,7 @@
 [
   {
     "predicate": {
-      "item": "byg:pendorite_pickaxe"
+      "items": ["byg:pendorite_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -12,7 +12,7 @@
   },
   {
     "predicate": {
-      "item": "enderitemod:enderite_pickaxe"
+      "items": ["enderitemod:enderite_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -27,7 +27,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:blue_geode_pickaxe"
+      "items": ["wyrmroost:blue_geode_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -38,7 +38,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:red_geode_pickaxe"
+      "items": ["wyrmroost:red_geode_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -49,7 +49,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:purple_geode_pickaxe"
+      "items": ["wyrmroost:purple_geode_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -60,7 +60,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:platinum_pickaxe"
+      "items": ["wyrmroost:platinum_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -71,7 +71,7 @@
   },
   {
     "predicate": {
-      "item": "betterendforge:terminite_pickaxe"
+      "items": ["betterendforge:terminite_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -82,7 +82,7 @@
   },
   {
     "predicate": {
-      "item": "betterendforge:aeternium_pickaxe"
+      "items": ["betterendforge:aeternium_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -96,7 +96,7 @@
   },
   {
     "predicate": {
-      "item": "betterendforge:thallasium_pickaxe"
+      "items": ["betterendforge:thallasium_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -107,7 +107,7 @@
   },
   {
     "predicate": {
-      "item": "twilightforest:fiery_pickaxe"
+      "items": ["twilightforest:fiery_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -118,7 +118,7 @@
   },
   {
     "predicate": {
-      "item": "twilightforest:ironwood_pickaxe"
+      "items": ["twilightforest:ironwood_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -129,7 +129,7 @@
   },
   {
     "predicate": {
-      "item": "twilightforest:knightmetal_pickaxe"
+      "items": ["twilightforest:knightmetal_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -140,7 +140,7 @@
   },
   {
     "predicate": {
-      "item": "twilightforest:steeleaf_pickaxe"
+      "items": ["twilightforest:steeleaf_pickaxe"]
     },
     "item": "tetra:modular_double",
     "modules": {

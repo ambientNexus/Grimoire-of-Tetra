@@ -1,7 +1,7 @@
 [
   {
     "predicate": {
-      "item": "byg:pendorite_shovel"
+      "items": ["byg:pendorite_shovel"]
     },
     "item": "tetra:modular_single",
     "modules": {
@@ -11,7 +11,7 @@
   },
   {
     "predicate": {
-      "item": "enderitemod:enderite_shovel"
+      "items": ["enderitemod:enderite_shovel"]
     },
     "item": "tetra:modular_single",
     "modules": {
@@ -24,7 +24,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:blue_geode_shovel"
+      "items": ["wyrmroost:blue_geode_shovel"]
     },
     "item": "tetra:modular_single",
     "modules": {
@@ -34,7 +34,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:red_geode_shovel"
+      "items": ["wyrmroost:red_geode_shovel"]
     },
     "item": "tetra:modular_single",
     "modules": {
@@ -44,7 +44,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:purple_geode_shovel"
+      "items": ["wyrmroost:purple_geode_shovel"]
     },
     "item": "tetra:modular_single",
     "modules": {
@@ -54,7 +54,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:platinum_shovel"
+      "items": ["wyrmroost:platinum_shovel"]
     },
     "item": "tetra:modular_single",
     "modules": {
@@ -64,7 +64,7 @@
   },
   {
     "predicate": {
-      "item": "betterendforge:terminite_shovel"
+      "items": ["betterendforge:terminite_shovel"]
     },
     "item": "tetra:modular_single",
     "modules": {
@@ -74,7 +74,7 @@
   },
   {
     "predicate": {
-      "item": "betterendforge:aeternium_shovel"
+      "items": ["betterendforge:aeternium_shovel"]
     },
     "item": "tetra:modular_single",
     "modules": {
@@ -87,7 +87,7 @@
   },
   {
     "predicate": {
-      "item": "betterendforge:thallasium_shovel"
+      "items": ["betterendforge:thallasium_shovel"]
     },
     "item": "tetra:modular_single",
     "modules": {
@@ -97,7 +97,7 @@
   },
   {
     "predicate": {
-      "item": "twilightforest:ironwood_shovel"
+      "items": ["twilightforest:ironwood_shovel"]
     },
     "item": "tetra:modular_single",
     "modules": {
@@ -107,7 +107,7 @@
   },
   {
     "predicate": {
-      "item": "twilightforest:steeleaf_shovel"
+      "items": ["twilightforest:steeleaf_shovel"]
     },
     "item": "tetra:modular_single",
     "modules": {

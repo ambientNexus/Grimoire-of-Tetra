@@ -1,7 +1,7 @@
 [
   {
     "predicate": {
-      "items": [ "byg:pendorite_hoe" ]
+      "items": ["byg:pendorite_hoe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -12,7 +12,7 @@
   },
   {
     "predicate": {
-      "items": [ "enderitemod:enderite_hoe" ]
+      "items": ["enderitemod:enderite_hoe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -27,7 +27,7 @@
   },
   {
     "predicate": {
-      "items": [ "wyrmroost:blue_geode_hoe" ]
+      "items": ["wyrmroost:blue_geode_hoe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -38,7 +38,7 @@
   },
   {
     "predicate": {
-      "items": [ "wyrmroost:red_geode_hoe" ]
+      "items": ["wyrmroost:red_geode_hoe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -49,7 +49,7 @@
   },
   {
     "predicate": {
-      "items": [ "wyrmroost:purple_geode_hoe" ]
+      "items": ["wyrmroost:purple_geode_hoe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -60,7 +60,7 @@
   },
   {
     "predicate": {
-      "items": [ "wyrmroost:platinum_hoe" ]
+      "items": ["wyrmroost:platinum_hoe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -71,7 +71,7 @@
   },
   {
     "predicate": {
-      "items": [ "betterendforge:terminite_hoe" ]
+      "items": ["betterendforge:terminite_hoe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -82,7 +82,7 @@
   },
   {
     "predicate": {
-      "items": [ "betterendforge:aeternium_hoe" ]
+      "items": ["betterendforge:aeternium_hoe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -96,7 +96,7 @@
   },
   {
       "predicate": {
-        "items": [ "betterendforge:thallasium_hoe" ]
+        "items": ["betterendforge:thallasium_hoe"]
       },
       "item": "tetra:modular_double",
       "modules": {
@@ -107,7 +107,7 @@
   },
   {
     "predicate": {
-      "items": [ "twilightforest:ironwood_hoe" ]
+      "items": ["twilightforest:ironwood_hoe"]
     },
     "item": "tetra:modular_double",
     "modules": {
@@ -118,7 +118,7 @@
   },
   {
     "predicate": {
-      "items": [ "twilightforest:steeleaf_hoe" ]
+      "items": ["twilightforest:steeleaf_hoe"]
     },
     "item": "tetra:modular_double",
     "modules": {

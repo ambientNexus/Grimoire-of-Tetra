@@ -1,7 +1,7 @@
 [
   {
     "predicate": {
-      "item": "byg:pendorite_sword"
+      "items": ["byg:pendorite_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -13,7 +13,7 @@
   },
   {
     "predicate": {
-      "item": "enderitemod:enderite_sword"
+      "items": ["enderitemod:enderite_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -28,7 +28,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:blue_geode_sword"
+      "items": ["wyrmroost:blue_geode_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -43,7 +43,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:red_geode_sword"
+      "items": ["wyrmroost:red_geode_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -55,7 +55,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:purple_geode_sword"
+      "items": ["wyrmroost:purple_geode_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -67,7 +67,7 @@
   },
   {
     "predicate": {
-      "item": "wyrmroost:platinum_sword"
+      "items": ["wyrmroost:platinum_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -79,7 +79,7 @@
   },
   {
     "predicate": {
-      "item": "betterendforge:terminite_sword"
+      "items": ["betterendforge:terminite_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -91,7 +91,7 @@
   },
   {
     "predicate": {
-      "item": "betterendforge:aeternium_sword"
+      "items": ["betterendforge:aeternium_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -106,7 +106,7 @@
   },
   {
     "predicate": {
-      "item": "betterendforge:thallasium_sword"
+      "items": ["betterendforge:thallasium_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -118,7 +118,7 @@
   },
   {
     "predicate": {
-      "item": "twilightforest:fiery_sword"
+      "items": ["twilightforest:fiery_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -133,7 +133,7 @@
   },
   {
     "predicate": {
-      "item": "twilightforest:ironwood_sword"
+      "items": ["twilightforest:ironwood_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -145,7 +145,7 @@
   },
   {
     "predicate": {
-      "item": "twilightforest:knightmetal_sword"
+      "items": ["twilightforest:knightmetal_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
@@ -157,7 +157,7 @@
   },
   {
     "predicate": {
-      "item": "twilightforest:steeleaf_sword"
+      "items": ["twilightforest:steeleaf_sword"]
     },
     "item": "tetra:modular_sword",
     "modules": {
