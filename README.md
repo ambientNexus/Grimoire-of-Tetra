@@ -2,7 +2,7 @@
 
 A port of Syrikal's Tetranomicon Mod for 1.18.
 
-Adds Tetra support to resources from Abnormals mods, BetterEnd, BOP, BYG, Create, Enderite, Ice and Fire, Outer End, Quark, Unearthed, Mythic Botany, and Wyrmroost. 
+Adds Tetra support to resources from Abnormals mods, BetterEnd, BOP, BYG, Create, Enderite, Ice and Fire, Outer End, Quark, Unearthed, Mythic Botany, Enigmatic Legacy, and Wyrmroost. 
 
 Some materials might not be available for 1.18, due to the mods not being updated yet.
 
