@@ -4,29 +4,29 @@ license="MIT"
 issueTrackerURL="http://my.issue.tracker/" #optional
 
 [[mods]] #mandatory
-modId="GrimoreOfTetra" #mandatory
+modId="GrimoireOfTetra" #mandatory
 version="${file.jarVersion}" #mandatory
-displayName="GrimoreOfTetra" #mandatory
+displayName="GrimoireOfTetra" #mandatory
 credits="Mickelus made most of the templates and Tetra itself. Credits for the other mods' materials go to their respective authors." #optional
 authors="Syric" #optional
 description='''
 Adds Tetra support to materials from Abnormals mods, Better End, BOP, BYG, Create, Enderite, Ice and Fire, Outer End, Quark, Unearthed, and Wyrmroost.
 '''
 
-[[dependencies.GrimoreOfTetra]] #optional
+[[dependencies.GrimoireOfTetra]] #optional
     modId="forge" #mandatory
     mandatory=true #mandatory
     versionRange="[39,)" #mandatory
     ordering="NONE"
     side="BOTH"
 # Here's another dependency
-[[dependencies.GrimoreOfTetra]]
+[[dependencies.GrimoireOfTetra]]
     modId="minecraft"
     mandatory=true
     versionRange="[1.18,)"
     ordering="NONE"
     side="BOTH"
-[[dependencies.GrimoreOfTetra]]
+[[dependencies.GrimoireOfTetra]]
     modId="tetra"
     mandatory=true
     versionRange="[4.0.0,)"
