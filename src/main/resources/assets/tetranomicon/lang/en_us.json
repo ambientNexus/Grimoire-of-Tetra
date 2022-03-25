@@ -347,5 +347,11 @@
   "tetra.variant.sword_socket/red_geode": "Socket [§4Red Geode§r]",
   "tetra.variant.double_socket/purple_geode": "Socket [§5Purple Geode§r]",
   "tetra.variant.single_socket/purple_geode": "Socket [§5Purple Geode§r]",
-  "tetra.variant.sword_socket/purple_geode": "Socket [§5Purple Geode§r]"
+  "tetra.variant.sword_socket/purple_geode": "Socket [§5Purple Geode§r]",
+
+  "tetra.material.etherium": "Etherium",
+  "tetra.material.etherium.prefix": "Etherium",
+
+  "tetra.material.alfsteel": "Alfsteel",
+  "tetra.material.alfsteel.prefix": "Alfsteel"
 }
