@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "6",
     "magicCapacity": "72",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:gold",
     "toolEfficiency": "5",
     "tints": {
         "glyph": "728778",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "atmospheric:kousa_planks"
+        "items": ["atmospheric:kousa_planks"]
     },
     "requiredTools": {
-        "axe": 2
+        "axe_dig": "minecraft:gold"
     }
 }

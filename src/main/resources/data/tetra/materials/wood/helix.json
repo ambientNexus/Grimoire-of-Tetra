@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "5",
     "magicCapacity": "102",
-    "toolLevel": "4",
+    "toolLevel": "minecraft:iron",
     "toolEfficiency": "5",
     "tints": {
         "glyph": "c87d20",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "betterendforge:helix_tree_planks"
+        "items": ["betterendforge:helix_tree_planks"]
     },
     "requiredTools": {
-        "axe": 5
+        "axe_dig": "minecraft:diamond"
     }
 }

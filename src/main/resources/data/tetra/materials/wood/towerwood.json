@@ -8,7 +8,7 @@
     "integrityCost": "3",
     "integrityGain": "6",
     "magicCapacity": "90",
-    "toolLevel": "3",
+    "toolLevel": "minecraft:stone",
     "toolEfficiency": "7",
     "tints": {
         "glyph": "9d6238",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "twilightforest:tower_wood"
+        "items": ["twilightforest:tower_wood"]
     },
     "requiredTools": {
-        "axe": 5
+        "axe_dig": "minecraft:diamond"
     }
 }

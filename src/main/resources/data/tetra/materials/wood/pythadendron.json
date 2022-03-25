@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "8",
     "magicCapacity": "90",
-    "toolLevel": "3",
+    "toolLevel": "minecraft:stone",
     "toolEfficiency": "7",
     "tints": {
         "glyph": "6b546b",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "betterendforge:pythadendron_planks"
+        "items": ["betterendforge:pythadendron_planks"]
     },
     "requiredTools": {
-        "axe": 5
+        "axe_dig": "minecraft:diamond"
     }
 }

@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "7",
     "magicCapacity": "78",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:gold",
     "toolEfficiency": "4",
     "tints": {
         "glyph": "ad9b5c",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "byg:baobab_planks"
+        "items": ["byg:cika_planks"]
     },
     "requiredTools": {
-        "axe": 3
+        "axe_dig": "minecraft:stone"
     }
 }

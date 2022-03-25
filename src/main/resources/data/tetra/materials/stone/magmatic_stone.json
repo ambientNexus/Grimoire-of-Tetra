@@ -8,7 +8,7 @@
     "integrityCost": "1",
     "integrityGain": "4",
     "magicCapacity": "90",
-    "toolLevel": "3",
+    "toolLevel": "minecraft:iron",
     "toolEfficiency": "5",
     "tints": {
         "glyph": "20110d",
@@ -20,12 +20,12 @@
         "default"
     ],
     "material": {
-        "item": "byg:magmatic_stone"
+        "items": ["byg:magmatic_stone"]
     },
     "effects": {
         "fierySelf": [1, 0.05]
     },
     "requiredTools": {
-        "hammer": 2
+        "hammer_dig": "minecraft:stone"
     }
 }

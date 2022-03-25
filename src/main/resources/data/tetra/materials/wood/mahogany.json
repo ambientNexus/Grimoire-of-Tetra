@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "6",
     "magicCapacity": "72",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:gold",
     "toolEfficiency": "5",
     "tints": {
         "glyph": "8e6872",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "byg:mahogany_planks"
+        "items": ["byg:mahogany_planks", "biomesoplenty:mahogany_planks"]
     },
     "requiredTools": {
-        "axe": 2
+        "axe_dig": "minecraft:gold"
     }
 }

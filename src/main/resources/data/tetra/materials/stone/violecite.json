@@ -8,7 +8,7 @@
     "integrityCost": "3",
     "integrityGain": "2",
     "magicCapacity": "90",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:stone",
     "toolEfficiency": "6",
     "improvements": {
         "violecite_density": 0
@@ -23,9 +23,9 @@
         "default"
     ],
     "material": {
-        "item": "betterendforge:violecite"
+        "items": ["betterendforge:violecite"]
     },
     "requiredTools": {
-        "hammer": 5
+        "hammer_dig": "minecraft:diamond"
     }
 }

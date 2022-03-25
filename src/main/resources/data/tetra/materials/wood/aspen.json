@@ -8,7 +8,7 @@
     "integrityCost": "1",
     "integrityGain": "4",
     "magicCapacity": "96",
-    "toolLevel": "1",
+    "toolLevel": "minecraft:wood",
     "toolEfficiency": "2",
     "tints": {
         "glyph": "bf8c6d",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "byg:aspen_planks"
+        "items": ["byg:aspen_planks", "atmospheric:aspen_planks"]
     },
     "requiredTools": {
-        "axe": 1
+        "axe_dig": "minecraft:wood"
     }
 }

@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "5",
     "magicCapacity": "96",
-    "toolLevel": "1",
+    "toolLevel": "minecraft:wood",
     "toolEfficiency": "4",
     "tints": {
         "glyph": "735a5b",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "atmospheric:rosewood_planks"
+        "items": ["atmospheric:rosewood_planks"]
     },
     "requiredTools": {
-        "axe": 2
+        "axe_dig": "minecraft:gold"
     }
 }

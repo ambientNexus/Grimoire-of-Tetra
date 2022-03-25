@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "5",
     "magicCapacity": "75",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:gold",
     "toolEfficiency": "4",
     "tints": {
         "glyph": "554f9a",
@@ -19,12 +19,12 @@
         "wooden"
     ],
     "material": {
-        "item": "byg:lament_planks"
+        "items": ["byg:lament_planks"]
     },
     "effects": {
         "unstable": 10
     },
     "requiredTools": {
-        "axe": 3
+        "axe_dig": "minecraft:stone"
     }
 }

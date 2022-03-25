@@ -19,9 +19,9 @@
         "default"
     ],
     "material": {
-        "item": "twilightforest:naga_scale"
+        "items": ["twilightforest:naga_scale"]
     },
     "requiredTools": {
-        "cut": 3
+        "cut": "minecraft:stone"
     }
 }

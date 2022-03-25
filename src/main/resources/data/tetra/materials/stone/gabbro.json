@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "3",
     "magicCapacity": "90",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:stone",
     "toolEfficiency": "4.5",
     "tints": {
         "glyph": "979795",
@@ -20,9 +20,9 @@
         "default"
     ],
     "material": {
-        "item": "unearthed:gabbro"
+        "items": ["unearthed:gabbro"]
     },
     "requiredTools": {
-        "hammer": 1
+        "hammer_dig": "minecraft:wood"
     }
 }

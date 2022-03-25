@@ -8,7 +8,7 @@
     "integrityCost": "1",
     "integrityGain": "2",
     "magicCapacity": "78",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:stone",
     "toolEfficiency": "4",
     "tints": {
         "glyph": "4a5c5e",
@@ -20,9 +20,9 @@
         "default"
     ],
     "material": {
-        "item": "quark:slate"
+        "items": ["quark:slate", "unearthed:slate"]
     },
     "requiredTools": {
-        "hammer": 1
+        "hammer": "minecraft:wood"
     }
 }

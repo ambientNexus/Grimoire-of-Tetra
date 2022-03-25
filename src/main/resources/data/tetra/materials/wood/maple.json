@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "5",
     "magicCapacity": "96",
-    "toolLevel": "1",
+    "toolLevel": "minecraft:wood",
     "toolEfficiency": "4",
     "tints": {
         "glyph": "82786f",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "byg:maple_planks"
+        "items": ["byg:maple_planks", "autumnity:maple_planks"]
     },
     "requiredTools": {
-        "axe": 2
+        "axe_dig": "minecraft:gold"
     }
 }

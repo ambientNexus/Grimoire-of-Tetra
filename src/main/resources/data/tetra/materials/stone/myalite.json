@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "2",
     "magicCapacity": "90",
-    "toolLevel": "3",
+    "toolLevel": "minecraft:iron",
     "toolEfficiency": "9",
     "tints": {
         "glyph": "592e9a",
@@ -20,9 +20,9 @@
         "default"
     ],
     "material": {
-        "item": "quark:myalite"
+        "items": ["quark:myalite"]
     },
     "requiredTools": {
-        "hammer": 5
+        "hammer_dig": "minecraft:netherite"
     }
 }

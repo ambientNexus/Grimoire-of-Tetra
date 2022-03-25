@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "2",
     "magicCapacity": "90",
-    "toolLevel": "1",
+    "toolLevel": "minecraft:wood",
     "toolEfficiency": "3",
     "tints": {
         "glyph": "bb9a4c",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "bamboo_blocks:bamboo_planks"
+        "items": ["bamboo_blocks:bamboo_planks"]
     },
     "requiredTools": {
-        "axe": 1
+        "axe_dig": "minecraft:wood"
     }
 }

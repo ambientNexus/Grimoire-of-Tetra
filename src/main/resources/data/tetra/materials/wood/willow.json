@@ -8,7 +8,7 @@
     "integrityCost": "1",
     "integrityGain": "2",
     "magicCapacity": "108",
-    "toolLevel": "1",
+    "toolLevel": "minecraft:wood",
     "toolEfficiency": "3",
     "tints": {
         "glyph": "576832",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "byg:willow_planks"
+        "items": ["byg:willow_planks", "environmental:willow_planks", "biomesoplenty:willow_planks"]
     },
     "requiredTools": {
-        "axe": 1
+        "axe_dig": "minecraft:wood"
     }
 }

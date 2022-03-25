@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "6",
     "magicCapacity": "72",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:gold",
     "toolEfficiency": "5",
     "tints": {
         "glyph": "161616",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "byg:ebony_planks"
+        "items": ["byg:ebony_planks"]
     },
     "requiredTools": {
-        "axe": 2
+        "axe_dig": "minecraft:gold"
     }
 }

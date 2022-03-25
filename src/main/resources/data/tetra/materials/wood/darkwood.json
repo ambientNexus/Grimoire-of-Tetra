@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "5",
     "magicCapacity": "90",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:gold",
     "toolEfficiency": "7",
     "tints": {
         "glyph": "82512e",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "twilightforest:dark_planks"
+        "items": ["twilightforest:dark_planks"]
     },
     "requiredTools": {
-        "axe": 2
+        "axe_dig": "minecraft:gold"
     }
 }

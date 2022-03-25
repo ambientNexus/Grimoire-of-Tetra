@@ -8,7 +8,7 @@
     "integrityCost": "1",
     "integrityGain": "2",
     "magicCapacity": "78",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:stone",
     "toolEfficiency": "4",
     "tints": {
         "glyph": "767676",
@@ -20,9 +20,9 @@
         "default"
     ],
     "material": {
-        "item": "unearthed:phyllite"
+        "items": ["unearthed:phyllite"]
     },
     "requiredTools": {
-        "hammer": 1
+        "hammer_dig": "minecraft:wood"
     }
 }

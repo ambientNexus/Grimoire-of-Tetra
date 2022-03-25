@@ -8,7 +8,7 @@
     "integrityCost": "1",
     "integrityGain": "2",
     "magicCapacity": "90",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:gold",
     "toolEfficiency": "4",
     "tints": {
         "glyph": "938126",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "byg:sythian_planks"
+        "items": ["byg:sythian_planks"]
     },
     "requiredTools": {
-        "axe": 3
+        "axe_dig": "minecraft:stone"
     }
 }

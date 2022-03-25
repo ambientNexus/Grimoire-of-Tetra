@@ -8,7 +8,7 @@
     "integrityCost": "1",
     "integrityGain": "4",
     "magicCapacity": "84",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:stone",
     "toolEfficiency": "3.5",
     "tints": {
         "glyph": "3f3f3f",
@@ -20,9 +20,9 @@
         "default"
     ],
     "material": {
-        "item": "byg:soapstone"
+        "items": [ "byg:soapstone" ]
     },
     "requiredTools": {
-        "hammer": 1
+        "hammer_dig": "minecraft:wood"
     }
 }

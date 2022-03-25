@@ -8,7 +8,7 @@
     "integrityCost": "1",
     "integrityGain": "5",
     "magicCapacity": "102",
-    "toolLevel": "3",
+    "toolLevel": "minecraft:iron",
     "toolEfficiency": "6",
     "tints": {
         "glyph": "343c64",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "outer_end:azure_planks"
+        "items": ["outer_end:azure_planks"]
     },
     "requiredTools": {
-        "axe": 5
+        "axe_dig": "minecraft:diamond"
     }
 }

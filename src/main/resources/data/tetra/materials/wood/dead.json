@@ -8,7 +8,7 @@
     "integrityCost": "1",
     "integrityGain": "3",
     "magicCapacity": "102",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:gold",
     "toolEfficiency": "5",
     "tints": {
         "glyph": "807a72",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "biomesoplenty:dead_planks"
+        "items": ["biomesoplenty:dead_planks"]
     },
     "requiredTools": {
-        "axe": 2
+        "axe_dig": "minecraft:gold"
     }
 }

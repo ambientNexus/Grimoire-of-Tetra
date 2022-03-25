@@ -8,7 +8,7 @@
     "integrityCost": "1",
     "integrityGain": "5",
     "magicCapacity": "72",
-    "toolLevel": "2",
+    "toolLevel": "minecraft:gold",
     "toolEfficiency": "4",
     "tints": {
         "glyph": "531814",
@@ -19,9 +19,9 @@
         "wooden"
     ],
     "material": {
-        "item": "byg:cherry_planks"
+        "items": ["byg:cherry_planks", "environmental:cherry_planks", "biomesoplenty:cherry_planks"]
     },
     "requiredTools": {
-        "axe": 2
+        "axe_dig": "minecraft:gold"
     }
 }

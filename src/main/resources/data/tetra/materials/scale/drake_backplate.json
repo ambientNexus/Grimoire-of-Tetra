@@ -19,9 +19,9 @@
         "default"
     ],
     "material": {
-        "item": "wyrmroost:drake_backplate"
+        "items": ["wyrmroost:drake_backplate"]
     },
     "requiredTools": {
-        "cut": 3
+        "cut": "minecraft:stone"
     }
 }
