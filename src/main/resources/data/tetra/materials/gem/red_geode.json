@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "3",
     "magicCapacity": 144,
-    "toolLevel": "6",
+    "toolLevel": "minecraft:netherite",
     "toolEfficiency": "10",
     "tints": {
         "glyph": "8d2e2f",
@@ -19,9 +19,9 @@
         "crude"
     ],
     "material": {
-        "item": "wyrmroost:red_geode"
+        "items": ["wyrmroost:red_geode"]
     },
     "requiredTools": {
-        "hammer": 6
+        "hammer_dig": 6
     }
 }

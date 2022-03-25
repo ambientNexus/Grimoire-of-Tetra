@@ -19,9 +19,9 @@
         "default"
     ],
     "material": {
-        "items": [ "byg:skyris_vine" ]
+        "items": ["byg:skyris_vine"]
     },
     "requiredTools": {
-        "cut": "minecraft:stone"
+        "cut": "minecraft:gold"
     }
 }

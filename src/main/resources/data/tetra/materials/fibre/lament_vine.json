@@ -19,9 +19,9 @@
         "default"
     ],
     "material": {
-        "items": [ "byg:lament_vine" ]
+        "items": ["byg:lament_vine"]
     },
     "requiredTools": {
-        "cut": "minecraft:stone"
+        "cut": "minecraft:gold"
     }
 }

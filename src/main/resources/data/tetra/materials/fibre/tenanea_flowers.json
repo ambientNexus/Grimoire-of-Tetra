@@ -22,9 +22,9 @@
         "default"
     ],
     "material": {
-        "items": [ "betterendforge:tenanea_flowers" ]
+        "items": ["betterendforge:tenanea_flowers"]
     },
     "requiredTools": {
-        "cut": "minecraft:stone"
+        "cut": "minecraft:gold"
     }
 }
