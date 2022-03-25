@@ -96,11 +96,6 @@ repositories {
 
 dependencies {
     minecraft 'net.minecraftforge:forge:1.18.1-39.1.0'
-
-    compile fg.deobf("curse.maven:mgui:3104239")
-    compile fg.deobf("curse.maven:tetra:3232294")
-
-    compile fg.deobf("curse.maven:the-twilight-forest:3334287")
 }
 
 jar {
