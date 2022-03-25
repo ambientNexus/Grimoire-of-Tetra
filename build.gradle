@@ -11,9 +11,9 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '2.0'
-group = 'com.ambientNexus.tetranomicon' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'tetranomicon'
+version = '1.0'
+group = 'com.ambientNexus.GrimoreOfTetra' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'GrimoreOfTetra'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
 
@@ -29,10 +29,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'tetranomicon'
+            property 'forge.enabledGameTestNamespaces', 'GrimoreOfTetra'
 
             mods {
-                tetranomicon {
+                GrimoreOfTetra {
                     source sourceSets.main
                 }
             }
@@ -45,10 +45,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'tetranomicon'
+            property 'forge.enabledGameTestNamespaces', 'GrimoreOfTetra'
 
             mods {
-                tetranomicon {
+                GrimoreOfTetra {
                     source sourceSets.main
                 }
             }
@@ -61,10 +61,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'tetranomicon'
+            property 'forge.enabledGameTestNamespaces', 'GrimoreOfTetra'
 
             mods {
-                tetranomicon {
+                GrimoreOfTetra {
                     source sourceSets.main
                 }
             }
@@ -77,10 +77,10 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            args '--mod', 'tetranomicon', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
+            args '--mod', 'GrimoreOfTetra', '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
 
             mods {
-                tetranomicon {
+                GrimoreOfTetra {
                     source sourceSets.main
                 }
             }
@@ -101,7 +101,7 @@ dependencies {
 jar {
     manifest {
         attributes([
-                "Specification-Title"     : "tetranomicon",
+                "Specification-Title"     : "GrimoreOfTetra",
                 "Specification-Vendor"    : "Nexus",
                 "Specification-Version"   : "1", // We are version 1 of ourselves
                 "Implementation-Title"    : project.name,
