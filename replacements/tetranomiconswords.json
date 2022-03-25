@@ -1,0 +1,170 @@
+[
+  {
+    "predicate": {
+      "items": ["byg:pendorite_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/pendorite"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/pendorite"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/pendorite"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["enderitemod:enderite_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/enderite"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/enderite"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/enderite"]
+    },
+    "improvements": {
+      "sword/blade:enderite_void_floating_innate": 3
+    }
+  },
+  {
+    "predicate": {
+      "items": ["wyrmroost:blue_geode_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/blue_geode"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/blue_geode"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/blue_geode"]
+    },
+    "improvements": {
+      "sword/blade:undergardenpatch/rotbane": 0
+    }
+  },
+  {
+    "predicate": {
+      "items": ["wyrmroost:red_geode_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/red_geode"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/red_geode"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/red_geode"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["wyrmroost:purple_geode_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/purple_geode"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/purple_geode"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/purple_geode"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["wyrmroost:platinum_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/platinum"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/platinum"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/platinum"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["betterendforge:terminite_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/terminite"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/terminite"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/terminite"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["betterendforge:aeternium_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/aeternium"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/aeternium"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/aeternium"]
+    },
+    "improvements": {
+      "sword/hilt:basic_hilt/wrap_leather": 1
+    }
+  },
+  {
+    "predicate": {
+      "items": ["betterendforge:thallasium_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/thallasium"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/thallasium"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/thallasium"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["twilightforest:fiery_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/fiery"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/fiery"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/fiery"]
+    },
+    "improvements": {
+      "sword/blade:enchantment/fire_aspect": 1
+    }
+  },
+  {
+    "predicate": {
+      "items": ["twilightforest:ironwood_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/ironwood"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/ironwood"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/ironwood"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["twilightforest:knightmetal_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/knightmetal"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/knightmetal"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/knightmetal"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["twilightforest:steeleaf_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/steeleaf"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/steeleaf"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/steeleaf"]
+    }
+  }
+]
