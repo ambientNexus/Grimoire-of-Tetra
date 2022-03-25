@@ -6,6 +6,8 @@ Adds Tetra support to resources from Abnormals mods, BetterEnd, BOP, BYG, Create
 
 Some materials might not be available for 1.18, due to the mods not being updated yet.
 
+Note: Some material values borrowed from Enigmatica 6.
+
 # Materials List
 ## ~~Abnormals Mods~~ Not Yet Updated to 1.18
 All wood types from Atmospheric, Autumnity, Bamboo Blocks, Endergetic Expansion, Environmental, Upgrade Aquatic:
