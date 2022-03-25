@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "6",
     "magicCapacity": "48",
-    "toolLevel": "4",
+    "toolLevel": "minecraft:diamond",
     "toolEfficiency": "8",
     "effects": {
         "armorPenetration": 2
@@ -22,9 +22,9 @@
         "default"
     ],
     "material": {
-        "item": "twilightforest:knightmetal_ingot"
+        "items": ["twilightforest:knightmetal_ingot"]
     },
     "requiredTools": {
-        "hammer": 3
+        "hammer_dig": "minecraft:stone"
     }
 }

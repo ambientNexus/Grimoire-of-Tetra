@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "5",
     "magicCapacity": "150",
-    "toolLevel": "3",
+    "toolLevel": "minecraft:iron",
     "toolEfficiency": "6.5",
     "improvements": {
         "ironwood_innate_efficiency": 1,
@@ -25,9 +25,9 @@
         "default"
     ],
     "material": {
-        "item": "twilightforest:ironwood_ingot"
+        "items": ["twilightforest:ironwood_ingot"]
     },
     "requiredTools": {
-        "hammer": 2
+        "hammer_dig": "minecraft:gold"
     }
 }

@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "12",
     "magicCapacity": "108",
-    "toolLevel": "6",
+    "toolLevel": "minecraft:netherite",
     "toolEfficiency": "10",
     "tints": {
         "glyph": "6c8c84",
@@ -19,10 +19,9 @@
         "default"
     ],
     "material": {
-        "items": [ "betterendforge:aeternium_ingot", ]
-        "count": 1
+        "items": ["betterendforge:aeternium_ingot"]
     },
     "requiredTools": {
-        "hammer": "minecraft:netherite"
+        "hammer_dig": 6
     }
 }

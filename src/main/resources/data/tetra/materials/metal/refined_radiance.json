@@ -8,7 +8,7 @@
    "integrityCost": "2",
    "integrityGain": "6",
    "magicCapacity": "124",
-   "toolLevel": "4",
+   "toolLevel": "minecraft:diamond",
    "toolEfficiency": "7",
    "tints": {
 	"glyph":"ffffff",
@@ -19,13 +19,13 @@
 	"default"
    ],
    "material": {
- 	"item":"create:refined_radiance"
+ 	"items": ["create:refined_radiance"]
    },
    "effects": {
 	"stabilizing":8
    },
 
    "requiredTools":{
-	"hammer":4
+	"hammer_dig": "minecraft:iron"
    }
 }

@@ -8,7 +8,7 @@
    "integrityCost": "2",
    "integrityGain": "4",
    "magicCapacity": "96",
-   "toolLevel": "3",
+   "toolLevel": "minecraft:iron",
    "toolEfficiency": "5.5",
    "tints": {
 	"glyph":"928f97",
@@ -19,10 +19,10 @@
 	"default"
    ],
    "material": {
- 	"item":"create:andesite_alloy"
+ 	"items": ["create:andesite_alloy"]
    },
 
    "requiredTools":{
-	"hammer":1
+	"hammer_dig": "minecraft:wood"
    }
 }

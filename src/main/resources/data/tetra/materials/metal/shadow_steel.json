@@ -8,7 +8,7 @@
    "integrityCost": "2",
    "integrityGain": "5",
    "magicCapacity": "99",
-   "toolLevel": "4",
+   "toolLevel": "minecraft:diamond",
    "toolEfficiency": "8",
    "tints": {
 	"glyph":"5d5164",
@@ -19,13 +19,13 @@
 	"default"
    ],
    "material": {
- 	"item":"create:shadow_steel"
+ 	"items": ["create:shadow_steel"]
    },
    "effects": {
 	"stabilizing":8
    },
 
    "requiredTools":{
-	"hammer":4
+	"hammer_dig": "minecraft:iron"
    }
 }

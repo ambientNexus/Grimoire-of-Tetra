@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "10",
     "magicCapacity": "60",
-    "toolLevel": "6",
+    "toolLevel": "minecraft:netherite",
     "toolEfficiency": "10",
     "tints": {
         "glyph": "aed4ea",
@@ -19,10 +19,9 @@
         "default"
     ],
     "material": {
-        "item": "iceandfire:dragonsteel_ice_ingot",
-        "count": 1
+        "items": ["iceandfire:dragonsteel_ice_ingot"]
     },
     "requiredTools": {
-        "hammer": 6
+        "hammer_dig": 6
     }
 }

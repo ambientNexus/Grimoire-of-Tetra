@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "5",
     "magicCapacity": "60",
-    "toolLevel": "5",
+    "toolLevel": "minecraft:netherite",
     "toolEfficiency": "9",
     "improvements": {
         "enchantment/fire_aspect": 1
@@ -25,9 +25,9 @@
         "default"
     ],
     "material": {
-        "item": "twilightforest:fiery_ingot"
+        "items": ["twilightforest:fiery_ingot"]
     },
     "requiredTools": {
-        "hammer": 3
+        "hammer_dig": "minecraft:stone"
     }
 }

@@ -8,7 +8,7 @@
    "integrityCost": "2",
    "integrityGain": "6",
    "magicCapacity": "87",
-   "toolLevel": "3",
+   "toolLevel": "minecraft:iron",
    "toolEfficiency": "6.5",
    "tints": {
 	"glyph":"ffc940",
@@ -19,10 +19,10 @@
 	"default"
    ],
    "material": {
- 	"items":[ "forge:ingots/brass" ]
+ 	"tag": "forge:ingots/brass"
    },
 
    "requiredTools":{
-	"hammer": "minecraft:stone"
+	"hammer_dig": "minecraft:gold"
    }
 }

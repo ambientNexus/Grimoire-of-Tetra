@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "5",
     "magicCapacity": "72",
-    "toolLevel": "3",
+    "toolLevel": "minecraft:iron",
     "toolEfficiency": "7",
     "tints": {
         "glyph": "98e3d8",
@@ -19,9 +19,9 @@
         "default"
     ],
     "material": {
-        "item": "betterendforge:thallasium_ingot"
+        "items": ["betterendforge:thallasium_ingot"]
     },
     "requiredTools": {
-        "hammer": 2
+        "hammer_dig": "minecraft:gold"
     }
 }

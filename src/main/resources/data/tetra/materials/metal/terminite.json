@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "5",
     "magicCapacity": "84",
-    "toolLevel": "4",
+    "toolLevel": "minecraft:diamond",
     "toolEfficiency": "8.5",
     "tints": {
         "glyph": "7aada6",
@@ -19,9 +19,9 @@
         "default"
     ],
     "material": {
-        "item": "betterendforge:terminite_ingot"
+        "items": ["betterendforge:terminite_ingot"]
     },
     "requiredTools": {
-        "hammer": 3
+        "hammer_dig": "minecraft:stone"
     }
 }

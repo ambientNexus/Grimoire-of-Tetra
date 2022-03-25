@@ -8,7 +8,7 @@
     "integrityCost": "2",
     "integrityGain": "1",
     "magicCapacity": "114",
-    "toolLevel": "4",
+    "toolLevel": "minecraft:diamond",
     "toolEfficiency": "5.5",
     "tints": {
         "glyph": "dedede",
@@ -19,9 +19,9 @@
         "default"
     ],
     "material": {
-        "item": "wyrmroost:platinum_ingot"
+        "tag": "forge:ingots/platinum"
     },
     "requiredTools": {
-        "hammer": 2
+        "hammer_dig": "minecraft:gold"
     }
 }
