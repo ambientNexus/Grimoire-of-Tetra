@@ -1,4 +1,4 @@
-# Grimoire Of Tetra
+# Grimoire of Tetra
 
 A port of Syrikal's Tetranomicon Mod for 1.18.
 
