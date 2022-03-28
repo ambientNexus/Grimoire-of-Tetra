@@ -8,7 +8,7 @@ modId="GrimoireOfTetra" #mandatory
 version="${file.jarVersion}" #mandatory
 displayName="GrimoireOfTetra" #mandatory
 credits="Mickelus made most of the templates and Tetra itself. Credits for the other mods' materials go to their respective authors." #optional
-authors="Syric" #optional
+authors="Syric, Nexus" #optional
 description='''
 Adds Tetra support to materials from Abnormals mods, Better End, BOP, BYG, Create, Enderite, Ice and Fire, Outer End, Quark, Unearthed, and Wyrmroost.
 '''
