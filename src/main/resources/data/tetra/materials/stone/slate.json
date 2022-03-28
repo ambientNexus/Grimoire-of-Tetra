@@ -1,15 +1,17 @@
 {
     "key": "slate",
     "category": "stone",
-    "primary": "4.5",
-    "secondary": "3",
+    "hidden": true,
+    "hiddenOutcomes": true,
+    "primary": "4",
+    "secondary": "3.5",
     "tertiary": "0",
-    "durability": "131",
+    "durability": "180",
     "integrityCost": "1",
-    "integrityGain": "2",
-    "magicCapacity": "78",
+    "integrityGain": "4",
+    "magicCapacity": "90",
     "toolLevel": "minecraft:stone",
-    "toolEfficiency": "4",
+    "toolEfficiency": "4.5",
     "tints": {
         "glyph": "4a5c5e",
         "texture": "4a5c5e"

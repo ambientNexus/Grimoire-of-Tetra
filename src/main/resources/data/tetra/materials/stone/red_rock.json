@@ -1,15 +1,17 @@
 {
     "key": "red_rock",
     "category": "stone",
-    "primary": "3.8",
-    "secondary": "3",
+    "hidden": true,
+    "hiddenOutcomes": true,
+    "primary": "4",
+    "secondary": "3.5",
     "tertiary": "0",
-    "durability": "160",
+    "durability": "180",
     "integrityCost": "1",
     "integrityGain": "4",
     "magicCapacity": "90",
     "toolLevel": "minecraft:stone",
-    "toolEfficiency": "4",
+    "toolEfficiency": "4.5",
     "tints": {
         "glyph": "914d2d",
         "texture": "914d2d"

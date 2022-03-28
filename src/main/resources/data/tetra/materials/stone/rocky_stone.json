@@ -1,6 +1,8 @@
 {
     "key": "rocky_stone",
     "category": "stone",
+    "hidden": true,
+    "hiddenOutcomes": true,
     "primary": "4",
     "secondary": "3",
     "tertiary": "0",

@@ -1,15 +1,17 @@
 {
     "key": "limestone",
     "category": "stone",
-    "primary": "4.2",
+    "hidden": true,
+    "hiddenOutcomes": true,
+    "primary": "4",
     "secondary": "3.5",
     "tertiary": "0",
-    "durability": "100",
+    "durability": "180",
     "integrityCost": "1",
     "integrityGain": "4",
     "magicCapacity": "90",
     "toolLevel": "minecraft:stone",
-    "toolEfficiency": "4",
+    "toolEfficiency": "4.5",
     "tints": {
         "glyph": "908b77",
         "texture": "908b77"
