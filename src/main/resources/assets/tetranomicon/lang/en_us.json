@@ -79,10 +79,8 @@
   "tetra.variant.sword_socket/eternal_crystal": "Socket [§dEternal Crystal§f]",
   "tetra.improvement.violecite_density.name": "Dense",
   "tetra.improvement.violecite_density.description": "Violecite tools' weight slows their bearer and provides knockback resistance.",
-
-
-  "tetra.material.cherrybop": "Cherry",
-  "tetra.material.cherrybop.prefix": "Cherry",
+  
+  
   "tetra.material.dead": "Deadwood",
   "tetra.material.dead.prefix": "Deadwood",
   "tetra.material.hellbark": "Hellbark",
@@ -123,8 +121,6 @@
   "tetra.material.scoria.prefix": "Scoria",
   "tetra.material.aspen": "Aspen",
   "tetra.material.aspen.prefix": "Aspen",
-  "tetra.material.baobab": "Baobab",
-  "tetra.material.baobab.prefix": "Baobab",
   "tetra.material.bulbis": "Bulbis",
   "tetra.material.bulbis.prefix": "Bulbis",
   "tetra.material.cherry": "Cherry",
@@ -185,23 +181,9 @@
   "tetra.variant.single_socket/ametrine": "Socket [§eAmet§drine§r]",
   "tetra.variant.sword_socket/ametrine": "Socket [§eAmet§drine§r]",
 
-
-  "tetra.material.andesite_alloy": "Andesite Alloy",
-  "tetra.material.andesite_alloy.prefix": "Andesite Alloy",
-  "tetra.material.brass": "Brass",
-  "tetra.material.brass.prefix": "Brass",
-  "tetra.material.refined_radiance": "Refined Radiance",
-  "tetra.material.refined_radiance.prefix": "Refined Radiance",
-  "tetra.material.darkscoria": "Dark Scoria",
-  "tetra.material.darkscoria.prefix": "Dark Scoria",
-  "tetra.material.dolomite": "Dolomite",
-  "tetra.material.dolomite.prefix": "Dolomite",
-  "tetra.material.gabbrocr": "Gabbro",
-  "tetra.material.gabbrocr.prefix": "Gabbro",
-  "tetra.material.limestonecr": "Limestone",
-  "tetra.material.limestonecr.prefix": "Limestone",
-  "tetra.material.scoriacr": "Scoria",
-  "tetra.material.scoriacr.prefix": "Scoria",
+ 
+  "tetra.material.scorchia": "Scorchia",
+  "tetra.material.scorchia.prefix": "Scorchia",
 
 
   "tetra.material.enderite": "Enderite",
@@ -303,18 +285,12 @@
   "tetra.material.marble.prefix": "Marble",
   "tetra.material.jasper": "Jasper",
   "tetra.material.jasper.prefix": "Jasper",
-  "tetra.material.voidstone": "Voidstone",
-  "tetra.material.voidstone.prefix": "Voidstone",
-  "tetra.material.myalite": "Myalite",
-  "tetra.material.myalite.prefix": "Myalite",
 
 
   "tetra.material.gabbro": "Gabbro",
   "tetra.material.gabbro.prefix": "Gabbro",
   "tetra.material.kimberlite": "Kimberlite",
   "tetra.material.kimberlite.prefix": "Kimberlite",
-  "tetra.material.limestoneun": "Limestone",
-  "tetra.material.limestoneun.prefix": "Limestone",
   "tetra.material.marbleun": "Marble",
   "tetra.material.marbleun.prefix": "Marble",
   "tetra.material.phyllite": "Phyllite",
@@ -325,8 +301,6 @@
   "tetra.material.rhyolite.prefix": "Rhyolite",
   "tetra.material.schist": "Schist",
   "tetra.material.schist.prefix": "Schist",
-  "tetra.material.slateun": "Slate",
-  "tetra.material.slateun.prefix": "Slate",
 
 
   "tetra.material.blue_geode": "Blue Geode",
