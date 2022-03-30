@@ -19,7 +19,7 @@
         "default"
     ],
     "material": {
-        "items": ["byg:pendorite_scraps"]
+        "items": ["byg:pendorite_ingot"]
     },
     "requiredTools": {
         "hammer_dig": "minecraft:diamond"

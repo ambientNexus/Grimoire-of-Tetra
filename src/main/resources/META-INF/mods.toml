@@ -10,7 +10,7 @@ displayName="Grimoire Of Tetra" #mandatory
 credits="Mickelus made most of the templates and Tetra itself. Credits for the other mods' materials go to their respective authors." #optional
 authors="Syric, Nexus" #optional
 description='''
-Adds Tetra support to materials from Abnormals mods, Better End, BOP, BYG, Create, Enderite, Ice and Fire, Outer End, Quark, Unearthed, and Wyrmroost.
+Adds Tetra support to resources from Abnormals mods, BetterEnd, BOP, BYG, Enderite, Enigmatic Legacy, Ice and Fire, Mythic Botany, Outer End, Quark, Unearthed, and Wyrmroost.
 '''
 
 [[dependencies.grimoire_of_tetra]] #optional
