@@ -1,15 +1,15 @@
 {
     "key": "towerwood",
     "category": "wood",
-    "primary": "5.5",
-    "secondary": "4",
-    "tertiary": "7",
-    "durability": "1024",
-    "integrityCost": "3",
-    "integrityGain": "6",
-    "magicCapacity": "90",
+    "primary": 5.5,
+    "secondary": 4,
+    "tertiary": 7,
+    "durability": 1024,
+    "integrityCost": 3,
+    "integrityGain": 6,
+    "magicCapacity": 90,
     "toolLevel": "minecraft:stone",
-    "toolEfficiency": "7",
+    "toolEfficiency": 7,
     "tints": {
         "glyph": "9d6238",
         "texture": "9d6238"

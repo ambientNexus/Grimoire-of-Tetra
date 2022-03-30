@@ -1,15 +1,15 @@
 {
   "key": "alfsteel",
   "category": "metal",
-  "primary": "13",
-  "secondary": "5.3",
-  "tertiary": "8.6",
-  "durability": "2950",
-  "integrityCost": "4",
-  "integrityGain": "9",
-  "magicCapacity": "216",
+  "primary": 9,
+  "secondary": 5.3,
+  "tertiary": 8.6,
+  "durability": 2550,
+  "integrityCost": 4,
+  "integrityGain": 9,
+  "magicCapacity": 216,
   "toolLevel": "minecraft:netherite",
-  "toolEfficiency": "12.5",
+  "toolEfficiency": 12.5,
   "tints": {
     "glyph": "f5b540",
     "texture": "f28a3f"

@@ -1,15 +1,15 @@
 {
     "key": "aeternium",
     "category": "metal",
-    "primary": "7.5",
-    "secondary": "3.5",
-    "tertiary": "4.5",
-    "durability": "2196",
-    "integrityCost": "2",
-    "integrityGain": "9",
-    "magicCapacity": "108",
+    "primary": 7.5,
+    "secondary": 3.5,
+    "tertiary": 4.5,
+    "durability": 2196,
+    "integrityCost": 2,
+    "integrityGain": 9,
+    "magicCapacity": 108,
     "toolLevel": "minecraft:netherite",
-    "toolEfficiency": "10",
+    "toolEfficiency": 10,
     "tints": {
         "glyph": "6c8c84",
         "texture": "6c8c84"
@@ -22,6 +22,6 @@
         "items": ["betterendforge:aeternium_ingot"]
     },
     "requiredTools": {
-        "hammer_dig": 6
+        "hammer_dig": "minecraft:netherite"
     }
 }

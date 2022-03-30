@@ -1,15 +1,15 @@
 {
     "key": "eternal_crystal",
     "category": "gem",
-    "primary": "5",
-    "secondary": "1.2",
-    "tertiary": "0",
-    "durability": "5",
-    "integrityCost": "4",
-    "integrityGain": "1",
-    "magicCapacity": "180",
+    "primary": 5,
+    "secondary": 1.2,
+    "tertiary": 0,
+    "durability": 5,
+    "integrityCost": 4,
+    "integrityGain": 1,
+    "magicCapacity": 180,
     "toolLevel": "minecraft:netherite",
-    "toolEfficiency": "10",
+    "toolEfficiency": 10,
     "tints": {
         "glyph": "8ffff6",
         "texture": "8ffff6"
@@ -28,6 +28,6 @@
         "intuit": 3
     },
     "requiredTools": {
-        "hammer_dig": 7
+        "hammer_dig": "minecraft:netherite"
     }
 }

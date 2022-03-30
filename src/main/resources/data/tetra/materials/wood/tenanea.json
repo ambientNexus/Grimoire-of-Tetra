@@ -1,15 +1,15 @@
 {
     "key": "tenanea",
     "category": "wood",
-    "primary": "3.5",
-    "secondary": "2",
-    "tertiary": "6.2",
-    "durability": "780",
-    "integrityCost": "2",
-    "integrityGain": "2",
-    "magicCapacity": "96",
+    "primary": 3.5,
+    "secondary": 2,
+    "tertiary": 6.2,
+    "durability": 780,
+    "integrityCost": 2,
+    "integrityGain": 2,
+    "magicCapacity": 96,
     "toolLevel": "minecraft:stone",
-    "toolEfficiency": "11",
+    "toolEfficiency": 11,
     "effects": {
         "enderReverb": [6, 0.6]
     },

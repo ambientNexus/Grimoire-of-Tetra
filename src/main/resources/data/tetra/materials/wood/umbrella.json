@@ -1,15 +1,15 @@
 {
     "key": "umbrella",
     "category": "wood",
-    "primary": "4",
-    "secondary": "2.4",
-    "tertiary": "6",
-    "durability": "600",
-    "integrityCost": "2",
-    "integrityGain": "6",
-    "magicCapacity": "114",
+    "primary": 4,
+    "secondary": 2.4,
+    "tertiary": 6,
+    "durability": 600,
+    "integrityCost": 2,
+    "integrityGain": 6,
+    "magicCapacity": 114,
     "toolLevel": "minecraft:gold",
-    "toolEfficiency": "10",
+    "toolEfficiency": 10,
     "tints": {
         "glyph": "04646c",
         "texture": "04646c"

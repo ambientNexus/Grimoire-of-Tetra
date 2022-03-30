@@ -1,15 +1,15 @@
 {
     "key": "fire_dragonsteel",
     "category": "metal",
-    "primary": "24",
-    "secondary": "3.4",
-    "tertiary": "4",
-    "durability": "8000",
-    "integrityCost": "2",
-    "integrityGain": "10",
-    "magicCapacity": "60",
+    "primary": 9,
+    "secondary": 3.4,
+    "tertiary": 4,
+    "durability": 2500,
+    "integrityCost": 2,
+    "integrityGain": 8,
+    "magicCapacity": 60,
     "toolLevel": "minecraft:netherite",
-    "toolEfficiency": "10",
+    "toolEfficiency": 10,
     "tints": {
         "glyph": "c09396",
         "texture": "c09396"
@@ -22,6 +22,6 @@
         "items": ["iceandfire:dragonsteel_fire_ingot"]
     },
     "requiredTools": {
-        "hammer_dig": 6
+        "hammer_dig": "minecraft:netherite"
     }
 }

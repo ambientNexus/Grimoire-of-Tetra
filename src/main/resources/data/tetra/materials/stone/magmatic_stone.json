@@ -1,15 +1,15 @@
 {
     "key": "magmatic_stone",
     "category": "stone",
-    "primary": "4.3",
-    "secondary": "4.3",
-    "tertiary": "0",
-    "durability": "400",
-    "integrityCost": "1",
-    "integrityGain": "4",
-    "magicCapacity": "90",
+    "primary": 4.3,
+    "secondary": 4.3,
+    "tertiary": 0,
+    "durability": 400,
+    "integrityCost": 1,
+    "integrityGain": 4,
+    "magicCapacity": 90,
     "toolLevel": "minecraft:iron",
-    "toolEfficiency": "5",
+    "toolEfficiency": 5,
     "tints": {
         "glyph": "20110d",
         "texture": "20110d"

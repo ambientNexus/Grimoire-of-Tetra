@@ -1,15 +1,17 @@
 {
     "key": "grimwood",
     "category": "wood",
-    "primary": "3.5",
-    "secondary": "1.6",
-    "tertiary": "6.5",
-    "durability": "200",
-    "integrityCost": "1",
-    "integrityGain": "5",
-    "magicCapacity": "102",
-    "toolLevel": "minecraft:gold",
-    "toolEfficiency": "6",
+    "hidden": true,
+    "hiddenOutcomes": true,
+    "primary": 3,
+    "secondary": 1.7,
+    "tertiary": 6,
+    "durability": 59,
+    "integrityCost": 1,
+    "integrityGain": 4,
+    "magicCapacity": 90,
+    "toolLevel": "minecraft:wood",
+    "toolEfficiency": 2,
     "tints": {
         "glyph": "211414",
         "texture": "211414"
@@ -22,6 +24,6 @@
         "items": ["atmospheric:grimwood_planks"]
     },
     "requiredTools": {
-        "axe_dig": "minecraft:stone"
+        "axe_dig": "minecraft:wood"
     }
 }
