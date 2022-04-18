@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "type": "tetra:multi_major_module",
   "slots": ["double/head_left", "double/head_right"],
   "slotSuffixes": ["_left", "_right"],
@@ -109,7 +110,9 @@
       }
     },
     {
-      "materials": ["tetra:metal/enderite"],
+      "materials": [
+        "tetra:metal/enderite"
+      ],
       "key": "basic_hammer/",
       "attributes": {
         "generic.attack_speed": -1.1
@@ -127,7 +130,10 @@
           "generic.attack_speed": -0.08
         },
         "tools": {
-          "hammer_dig": [0, 0.8333]
+          "hammer_dig": [
+            0,
+            0.8333
+          ]
         },
         "durability": 0.55,
         "integrity": -1,
@@ -135,12 +141,15 @@
         "glyph": {
           "textureX": 64
         },
-        "availableTextures": ["metal"],
+        "availableTextures": [
+          "metal"
+        ],
         "models": [
           {
             "location": "tetra:items/module/double/head/basic_hammer/"
           }
         ]
       }
+    }
   ]
 }

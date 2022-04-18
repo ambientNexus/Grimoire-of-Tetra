@@ -1,12 +1,6 @@
 {
-  "slots": [
-    "double/head_left",
-    "double/head_right"
-  ],
-  "keySuffixes": [
-    "_left",
-    "_right"
-  ],
+  "slots": ["double/head_left", "double/head_right"],
+  "keySuffixes": ["_left", "_right"],
   "materialSlotCount": 1,
   "glyph": {
     "textureX": 64
