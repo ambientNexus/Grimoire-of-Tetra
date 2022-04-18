@@ -1,0 +1,55 @@
+{
+  "slots": [
+    "double/head_left",
+    "double/head_right"
+  ],
+  "keySuffixes": [
+    "_left",
+    "_right"
+  ],
+  "materialSlotCount": 1,
+  "glyph": {
+    "textureX": 64
+  },
+  "displayType": "major",
+  "outcomes": [
+    {
+      "material": {
+        "items": ["cagedmobs:star_infused_netherite_ingot"],
+        "count": 2
+      },
+      "requiredTools": {
+        "hammer_dig": 7
+      },
+      "moduleKey": "double/basic_hammer",
+      "moduleVariant": "basic_hammer/shadow_steel"
+    },
+    {
+      "material": {
+        "items": ["byg:pendorite_ingot"]
+      },
+
+      "requiredTools": {
+      "hammer_dig": 6
+      }
+    },
+    {
+      "material": {
+        "items": ["mythicbotany:alfsteel_ingot"]
+      },
+
+      "requiredTools": {
+        "hammer_dig": 7
+      }
+    },
+    {
+      "material": {
+        "items": ["enderitemod:enderite_ingot"]
+      },
+
+      "requiredTools": {
+        "hammer_dig": 6
+      }
+    }
+  ]
+}
