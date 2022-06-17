@@ -21,6 +21,9 @@
   "material": {
     "items": ["mythicbotany:alfsteel_ingot"]
   },
+  "improvements": {
+        "mana_repair": 1
+  },
   "requiredTools": {
     "hammer_dig": "minecraft:netherite"
   }

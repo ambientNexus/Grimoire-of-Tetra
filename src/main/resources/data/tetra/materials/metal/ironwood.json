@@ -10,12 +10,6 @@
     "magicCapacity": 150,
     "toolLevel": "minecraft:iron",
     "toolEfficiency": 6.5,
-    "improvements": {
-        "ironwood_innate_efficiency": 1,
-        "ironwood_innate_unbreaking": 1,
-        "ironwood_innate_fortune": 1,
-        "ironwood_innate_knockback": 1
-    },
     "tints": {
         "glyph": "979283",
         "texture": "979283"

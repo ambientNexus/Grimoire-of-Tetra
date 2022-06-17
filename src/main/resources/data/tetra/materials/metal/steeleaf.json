@@ -10,12 +10,6 @@
     "magicCapacity": 54,
     "toolLevel": "minecraft:diamond",
     "toolEfficiency": 8,
-    "improvements": {
-        "steeleaf_innate_efficiency": 1,
-        "steeleaf_innate_efficiency_two": 2,
-        "steeleaf_innate_looting": 2,
-        "steeleaf_innate_fortune": 1
-    },
     "tints": {
         "glyph": "385e2b",
         "texture": "385e2b"
