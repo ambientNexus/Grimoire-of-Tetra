@@ -1,12 +1,10 @@
 {
     "key": "cypress",
     "category": "wood",
-    "hidden": true,
-    "hiddenOutcomes": true,
-    "primary": 3,
+    "primary": 3.5,
     "secondary": 1.7,
     "tertiary": 6,
-    "durability": 59,
+    "durability": 120,
     "integrityCost": 1,
     "integrityGain": 4,
     "magicCapacity": 90,
@@ -21,7 +19,7 @@
         "wooden"
     ],
     "material": {
-        "items": ["byg:cypress_planks", "bayou_blues:cypress_planks"]
+        "items": ["byg:cypress_planks"]
     },
     "requiredTools": {
         "axe_dig": "minecraft:wood"

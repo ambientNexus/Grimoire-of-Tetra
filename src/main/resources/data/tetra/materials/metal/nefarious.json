@@ -1,0 +1,30 @@
+{
+  "key": "nefarious",
+  "category": "metal",
+  "primary": 9.24,
+  "secondary": 4.9,
+  "tertiary": 5.5,
+  "durability": 3431,
+  "integrityCost": 3,
+  "integrityGain": 10,
+  "magicCapacity": 170,
+  "toolLevel": "minecraft:netherite",
+  "toolEfficiency": 10,
+  "improvements": {
+    "grimoire_of_tetra/withered": 0
+  },
+  "tints": {
+    "glyph": "a83ac0",
+    "texture": "a83ac0"
+  },
+  "textures": [
+    "heavy",
+    "metal"
+  ],
+  "material": {
+    "items": ["enigmaticlegacy:evil_ingot"]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:netherite"
+  }
+}

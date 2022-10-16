@@ -1,9 +1,9 @@
 {
   "key": "etherium",
   "category": "metal",
-  "primary": 7,
-  "secondary": 1,
-  "tertiary": 1,
+  "primary": 11,
+  "secondary": 3.9,
+  "tertiary": 4.5,
   "durability": 2426,
   "integrityCost": 2,
   "integrityGain": 8,
@@ -11,8 +11,8 @@
   "toolLevel": "minecraft:netherite",
   "toolEfficiency": 11,
   "tints": {
-    "glyph": "b7f0e8",
-    "texture": "8af3e8"
+    "glyph": "a7f4f4",
+    "texture": "a7f4f4"
   },
   "textures": [
     "shiny",

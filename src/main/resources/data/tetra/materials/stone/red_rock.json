@@ -1,8 +1,6 @@
 {
     "key": "red_rock",
     "category": "stone",
-    "hidden": true,
-    "hiddenOutcomes": true,
     "primary": 4,
     "secondary": 3.5,
     "tertiary": 0,

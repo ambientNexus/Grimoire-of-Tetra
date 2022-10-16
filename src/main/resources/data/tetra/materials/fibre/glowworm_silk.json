@@ -1,0 +1,28 @@
+{
+    "key": "glowworm_silk",
+    "category": "fibre",
+    "primary": 5,
+    "secondary": 0.1,
+    "tertiary": 3,
+    "durability": 150,
+    "integrityCost": 1,
+    "integrityGain": 3,
+    "magicCapacity": 100,
+    "toolLevel": 0,
+    "toolEfficiency": 0,
+    "tints": {
+        "glyph": "diamond_glyph",
+        "texture": "diamond"
+    },
+    "textures": [
+	"shiny",
+        "crude",
+        "default"
+    ],
+    "material": {
+        "items": [ "biomesoplenty:glowworm_silk" ]
+    },
+    "requiredTools": {
+        "cut": "minecraft:wood"
+    }
+}

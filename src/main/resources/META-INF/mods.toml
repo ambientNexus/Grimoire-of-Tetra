@@ -19,7 +19,6 @@ Adds Tetra support to resources from Abnormals mods, BetterEnd, BOP, BYG, Enderi
     versionRange="[39,)" #mandatory
     ordering="NONE"
     side="BOTH"
-# Here's another dependency
 [[dependencies.grimoire_of_tetra]]
     modId="minecraft"
     mandatory=true

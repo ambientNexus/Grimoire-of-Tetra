@@ -1,8 +1,6 @@
 {
     "key": "scorchia",
     "category": "stone",
-    "hidden": true,
-    "hiddenOutcomes": true,
     "primary": 4,
     "secondary": 3.5,
     "tertiary": 0,
@@ -13,8 +11,8 @@
     "toolLevel": "minecraft:stone",
     "toolEfficiency": 4.5,
     "tints": {
-        "glyph": "712f25",
-        "texture": "712f25"
+        "glyph": "24242b",
+        "texture": "24242b"
     },
     "textures": [
         "grainy",

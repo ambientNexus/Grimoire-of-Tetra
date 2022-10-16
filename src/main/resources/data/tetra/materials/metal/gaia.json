@@ -1,0 +1,27 @@
+{
+  "key": "gaia",
+  "category": "metal",
+  "primary": 11,
+  "secondary": 4.7,
+  "tertiary": 10.8,
+  "durability": 2730,
+  "integrityCost": 4,
+  "integrityGain": 8,
+  "magicCapacity": 208,
+  "toolLevel": "minecraft:netherite",
+  "toolEfficiency": 13.5,
+  "tints": {
+    "glyph": "cebdf5",
+    "texture": "cebdf5"
+  },
+  "textures": [
+    "shiny",
+    "default"
+  ],
+  "material": {
+    "items": ["botania:gaia_ingot"]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:netherite"
+  }
+}

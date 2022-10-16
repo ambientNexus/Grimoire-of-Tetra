@@ -1,0 +1,28 @@
+{
+    "key": "brimstone",
+    "category": "stone",
+    "primary": 4.5,
+    "secondary": 4.5,
+    "tertiary": 0,
+    "durability": 500,
+    "integrityCost": 1,
+    "integrityGain": 4,
+    "magicCapacity": 90,
+    "toolLevel": "minecraft:iron",
+    "toolEfficiency": 5,
+    "tints": {
+        "glyph": "FABB18",
+        "texture": "FABB18"
+    },
+    "textures": [
+        "grainy",
+        "crude",
+        "default"
+    ],
+    "material": {
+        "items": ["biomesoplenty:brimstone"]
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:stone"
+    }
+}

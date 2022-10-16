@@ -1,0 +1,28 @@
+{
+  "key": "shiverstone",
+  "category": "stone",
+  "primary": 4.2,
+  "secondary": 4,
+  "tertiary": 0,
+  "durability": 250,
+  "integrityCost": 2,
+  "integrityGain": 5,
+  "magicCapacity": 90,
+  "toolLevel": "minecraft:stone",
+  "toolEfficiency": 4.5,
+  "tints": {
+    "glyph": "4f6264",
+    "texture": "4f6264"
+  },
+  "textures": [
+    "grainy",
+    "crude",
+    "default"
+  ],
+  "material": {
+    "items": ["undergarden:shiverstone"]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:wood"
+  }
+}

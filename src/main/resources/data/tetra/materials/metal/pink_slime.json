@@ -1,0 +1,28 @@
+{
+  "key": "pink_slime",
+  "category": "metal",
+  "primary": 2,
+  "secondary": 1.6,
+  "tertiary": 9.8,
+  "durability": 1850,
+  "integrityCost": 2,
+  "integrityGain": 6,
+  "magicCapacity": 108,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 4.5,
+
+  "tints": {
+    "glyph": "c078b4",
+    "texture": "c078b4"
+  },
+  "textures": [
+    "shiny",
+    "default"
+  ],
+  "material": {
+    "items": ["industrialforegoing:pink_slime_ingot"]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  }
+}

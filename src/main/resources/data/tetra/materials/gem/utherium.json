@@ -1,0 +1,30 @@
+{
+    "key": "utherium",
+    "category": "gem",
+    "primary": 7.5,
+    "secondary": 3.5,
+    "tertiary": 3.2,
+    "durability": 1279,
+    "integrityCost": 2,
+    "integrityGain": 7,
+    "magicCapacity": 78,
+    "toolLevel": "minecraft:diamond",
+    "toolEfficiency": 8,
+    "improvements": {
+        "grimoire_of_tetra/rotbane": 0
+    },
+    "tints": {
+        "glyph": "963a2a",
+        "texture": "963a2a"
+    },
+    "textures": [
+        "metal",
+        "default"
+    ],
+    "material": {
+        "items": ["undergarden:utherium_crystal"]
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:iron"
+    }
+}

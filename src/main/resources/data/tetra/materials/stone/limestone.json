@@ -1,9 +1,7 @@
 {
     "key": "limestone",
     "category": "stone",
-    "hidden": true,
-    "hiddenOutcomes": true,
-    "primary": 4,
+    "primary": 4.2,
     "secondary": 3.5,
     "tertiary": 0,
     "durability": 180,
@@ -22,7 +20,7 @@
         "default"
     ],
     "material": {
-        "items": ["quark:limestone", "create:limestone", "unearthed:limestone"]
+        "items": ["quark:limestone"]
     },
     "requiredTools": {
         "hammer_dig": "minecraft:wood"

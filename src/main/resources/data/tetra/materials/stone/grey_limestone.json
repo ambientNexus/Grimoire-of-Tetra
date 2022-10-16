@@ -1,0 +1,28 @@
+{
+    "key": "grey_limestone",
+    "category": "stone",
+    "primary": 4.2,
+    "secondary": 3.5,
+    "tertiary": 0,
+    "durability": 180,
+    "integrityCost": 1,
+    "integrityGain": 4,
+    "magicCapacity": 90,
+    "toolLevel": "minecraft:stone",
+    "toolEfficiency": 4.5,
+    "tints": {
+        "glyph": "545c5c",
+        "texture": "545c5c"
+    },
+    "textures": [
+        "grainy",
+        "crude",
+        "default"
+    ],
+    "material": {
+        "items": ["unearthed:cobbled_grey_limestone"]
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:wood"
+    }
+}

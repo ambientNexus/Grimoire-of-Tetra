@@ -1,0 +1,27 @@
+{
+    "key": "flesh_tendon",
+    "category": "fibre",
+    "primary": 5,
+    "secondary": 1,
+    "tertiary": 1,
+    "durability": 200,
+    "integrityCost": 1,
+    "integrityGain": 6,
+    "magicCapacity": 90,
+    "toolLevel": 0,
+    "toolEfficiency": 0,
+    "tints": {
+        "glyph": "8F1134",
+        "texture": "8F1134"
+    },
+    "textures": [
+        "crude",
+        "default"
+    ],
+    "material": {
+        "items": [ "biomesoplenty:flesh_tendons" ]
+    },
+    "requiredTools": {
+        "cut": "minecraft:gold"
+    }
+}

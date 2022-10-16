@@ -1,0 +1,12 @@
+[
+  {
+    "key": "grimoire_of_tetra/withered",
+    "level": 0,
+    "effects": {
+      "grimoire_of_tetra:withered": [
+        1,
+        15
+      ]
+    }
+  }
+] 

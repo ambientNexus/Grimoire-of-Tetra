@@ -13,21 +13,6 @@
   },
   {
     "predicate": {
-      "items": ["enderitemod:enderite_sword"]
-    },
-    "item": "tetra:modular_sword",
-    "modules": {
-      "sword/blade": ["sword/basic_blade", "basic_blade/enderite"],
-      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
-      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/enderite"],
-      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/enderite"]
-    },
-    "improvements": {
-      "sword/blade:enderite_void_floating_innate": 3
-    }
-  },
-  {
-    "predicate": {
       "items": ["wyrmroost:blue_geode_sword"]
     },
     "item": "tetra:modular_sword",
@@ -36,9 +21,6 @@
       "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
       "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/blue_geode"],
       "sword/guard": ["sword/makeshift_guard", "makeshift_guard/blue_geode"]
-    },
-    "improvements": {
-      "sword/blade:undergardenpatch/rotbane": 0
     }
   },
   {
@@ -126,9 +108,6 @@
       "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
       "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/fiery"],
       "sword/guard": ["sword/makeshift_guard", "makeshift_guard/fiery"]
-    },
-    "improvements": {
-      "sword/blade:enchantment/fire_aspect": 1
     }
   },
   {
@@ -165,6 +144,57 @@
       "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
       "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/steeleaf"],
       "sword/guard": ["sword/makeshift_guard", "makeshift_guard/steeleaf"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["undergarden:cloggrum_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/cloggrum"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/cloggrum"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/cloggrum"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["undergarden:froststeel_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/froststeel"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/froststeel"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/froststeel"]
+    },
+    "improvements": {
+      "sword/blade:grimoire_of_tetra/frostbite": 0
+    }
+  },
+  {
+    "predicate": {
+      "items": ["undergarden:utherium_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/utherium"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/utherium"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/utherium"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["undergarden:forgotten_sword"]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": ["sword/basic_blade", "basic_blade/forgotten"],
+      "sword/hilt": ["sword/basic_hilt", "basic_hilt/stick"],
+      "sword/pommel": ["sword/decorative_pommel", "decorative_pommel/forgotten"],
+      "sword/guard": ["sword/makeshift_guard", "makeshift_guard/forgotten"]
     }
   }
 ]

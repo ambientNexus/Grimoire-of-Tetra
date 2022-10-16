@@ -1,8 +1,6 @@
 {
     "key": "scoria",
     "category": "stone",
-    "hidden": true,
-    "hiddenOutcomes": true,
     "primary": 4,
     "secondary": 3.5,
     "tertiary": 0,
@@ -22,7 +20,7 @@
         "default"
     ],
     "material": {
-        "items": ["byg:scoria_cobblestone", "create:scoria"]
+        "items": ["create:scoria"]
     },
     "requiredTools": {
         "hammer_dig": "minecraft:wood"

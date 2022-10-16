@@ -1,9 +1,7 @@
 {
-    "key": "schist",
+    "key": "beige_limestone",
     "category": "stone",
-    "hidden": true,
-    "hiddenOutcomes": true,
-    "primary": 4,
+    "primary": 4.2,
     "secondary": 3.5,
     "tertiary": 0,
     "durability": 180,
@@ -13,8 +11,8 @@
     "toolLevel": "minecraft:stone",
     "toolEfficiency": 4.5,
     "tints": {
-        "glyph": "6b6864",
-        "texture": "6b6864"
+        "glyph": "8c7c66",
+        "texture": "8c7c66"
     },
     "textures": [
         "grainy",
@@ -22,7 +20,7 @@
         "default"
     ],
     "material": {
-        "items": ["unearthed:schist"]
+        "items": ["unearthed:cobbled_beige_limestone"]
     },
     "requiredTools": {
         "hammer_dig": "minecraft:wood"

@@ -1,0 +1,30 @@
+{
+    "key": "froststeel",
+    "category": "metal",
+    "primary": 6,
+    "secondary": 4,
+    "tertiary": 2.5,
+    "durability": 575,
+    "integrityCost": 2,
+    "integrityGain": 6,
+    "magicCapacity": 90,
+    "toolLevel": "minecraft:iron",
+    "toolEfficiency": 6,
+    "improvements": {
+        "grimoire_of_tetra/frostbite": 0
+    },
+    "tints": {
+        "glyph": "7391b0",
+        "texture": "7391b0"
+    },
+    "textures": [
+        "metal",
+        "default"
+    ],
+    "material": {
+        "items": ["undergarden:froststeel_ingot"]
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:iron"
+    }
+}

@@ -1,8 +1,6 @@
 {
-    "key": "kimberlite",
+    "key": "shale",
     "category": "stone",
-    "hidden": true,
-    "hiddenOutcomes": true,
     "primary": 4,
     "secondary": 3.5,
     "tertiary": 0,
@@ -13,8 +11,8 @@
     "toolLevel": "minecraft:stone",
     "toolEfficiency": 4.5,
     "tints": {
-        "glyph": "4c5835",
-        "texture": "4c5835"
+        "glyph": "4a5c5e",
+        "texture": "4a5c5e"
     },
     "textures": [
         "grainy",
@@ -22,7 +20,7 @@
         "default"
     ],
     "material": {
-        "items": ["unearthed:kimberlite"]
+        "items": ["quark:shale"]
     },
     "requiredTools": {
         "hammer_dig": "minecraft:wood"

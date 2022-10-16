@@ -1,0 +1,12 @@
+[
+  {
+    "key": "grimoire_of_tetra/frostbite",
+    "level": 0,
+    "effects": {
+      "grimoire_of_tetra:frostbite": [
+        1,
+        30
+      ]
+    }
+  }
+]

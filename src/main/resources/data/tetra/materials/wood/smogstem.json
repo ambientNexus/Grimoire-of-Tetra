@@ -1,0 +1,27 @@
+{
+    "key": "smogstem",
+    "category": "wood",
+    "primary": 3.5,
+    "secondary": 2.4,
+    "tertiary": 5.6,
+    "durability": 200,
+    "integrityCost": 2,
+    "integrityGain": 5,
+    "magicCapacity": 90,
+    "toolLevel": "minecraft:wood",
+    "toolEfficiency": 4,
+    "tints": {
+        "glyph": "484f4e",
+        "texture": "484f4e"
+    },
+    "textures": [
+        "crude",
+        "wooden"
+    ],
+    "material": {
+        "items": ["undergarden:smogstem_planks"]
+    },
+    "requiredTools": {
+        "axe_dig": "minecraft:wood"
+    }
+}

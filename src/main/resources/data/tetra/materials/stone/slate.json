@@ -1,8 +1,6 @@
 {
     "key": "slate",
     "category": "stone",
-    "hidden": true,
-    "hiddenOutcomes": true,
     "primary": 4,
     "secondary": 3.5,
     "tertiary": 0,
@@ -13,8 +11,8 @@
     "toolLevel": "minecraft:stone",
     "toolEfficiency": 4.5,
     "tints": {
-        "glyph": "4a5c5e",
-        "texture": "4a5c5e"
+        "glyph": "626262",
+        "texture": "626262"
     },
     "textures": [
         "grainy",
@@ -22,9 +20,9 @@
         "default"
     ],
     "material": {
-        "items": ["quark:slate", "unearthed:slate"]
+        "items": ["unearthed:cobbled_slate"]
     },
     "requiredTools": {
-        "hammer": "minecraft:wood"
+        "hammer_dig": "minecraft:wood"
     }
 }

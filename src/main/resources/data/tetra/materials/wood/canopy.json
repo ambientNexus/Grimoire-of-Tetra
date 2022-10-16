@@ -1,11 +1,9 @@
 {
     "key": "canopy",
     "category": "wood",
-    "hidden": true,
-    "hiddenOutcomes": true,
-    "primary": 3,
+    "primary": 3.5,
     "secondary": 1.7,
-    "tertiary": 6,
+    "tertiary": 6.5,
     "durability": 256,
     "integrityCost": 1,
     "integrityGain": 4,

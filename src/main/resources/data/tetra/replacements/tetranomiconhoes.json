@@ -12,21 +12,6 @@
   },
   {
     "predicate": {
-      "items": ["enderitemod:enderite_hoe"]
-    },
-    "item": "tetra:modular_double",
-    "modules": {
-      "double/head_left": ["double/hoe_left", "hoe/enderite"],
-      "double/head_right": ["double/butt_right", "butt/enderite"],
-      "double/handle": ["double/basic_handle", "basic_handle/stick"]
-    },
-    "improvements": {
-      "double/head_left:enderite_void_floating_innate": 3,
-      "double/head_right:enderite_void_floating_innate": 3
-    }
-  },
-  {
-    "predicate": {
       "items": ["wyrmroost:blue_geode_hoe"]
     },
     "item": "tetra:modular_double",
@@ -124,6 +109,54 @@
     "modules": {
       "double/head_left": ["double/hoe_left", "hoe/steeleaf"],
       "double/head_right": ["double/butt_right", "butt/steeleaf"],
+      "double/handle": ["double/basic_handle", "basic_handle/stick"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["undergarden:cloggrum_hoe"]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": ["double/hoe_left", "hoe/cloggrum"],
+      "double/head_right": ["double/butt_right", "butt/cloggrum"],
+      "double/handle": ["double/basic_handle", "basic_handle/stick"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["undergarden:froststeel_hoe"]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": ["double/hoe_left", "hoe/froststeel"],
+      "double/head_right": ["double/butt_right", "butt/froststeel"],
+      "double/handle": ["double/basic_handle", "basic_handle/stick"]
+    },
+    "improvements": {
+      "double/head_left:grimoire_of_tetra/frostbite": 0,
+      "double/head_right:grimoire_of_tetra/frostbite": 0
+    }
+  },
+  {
+    "predicate": {
+      "items": ["undergarden:utherium_hoe"]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": ["double/hoe_left", "hoe/utherium"],
+      "double/head_right": ["double/butt_right", "butt/utherium"],
+      "double/handle": ["double/basic_handle", "basic_handle/stick"]
+    }
+  },
+  {
+    "predicate": {
+      "items": ["undergarden:forgotten_hoe"]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": ["double/hoe_left", "hoe/forgotten"],
+      "double/head_right": ["double/butt_right", "butt/forgotten"],
       "double/handle": ["double/basic_handle", "basic_handle/stick"]
     }
   }

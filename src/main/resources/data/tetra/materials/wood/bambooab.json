@@ -1,17 +1,15 @@
 {
     "key": "bambooab",
     "category": "wood",
-    "hidden": true,
-    "hiddenOutcomes": true,
-    "primary": 3,
-    "secondary": 1.7,
-    "tertiary": 6,
+    "primary": 2.2,
+    "secondary": 1.4,
+    "tertiary": 7.2,
     "durability": 59,
     "integrityCost": 1,
-    "integrityGain": 4,
+    "integrityGain": 2,
     "magicCapacity": 90,
     "toolLevel": "minecraft:wood",
-    "toolEfficiency": 2,
+    "toolEfficiency": 3,
     "tints": {
         "glyph": "bb9a4c",
         "texture": "bb9a4c"

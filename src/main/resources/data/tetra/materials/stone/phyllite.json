@@ -1,8 +1,6 @@
 {
     "key": "phyllite",
     "category": "stone",
-    "hidden": true,
-    "hiddenOutcomes": true,
     "primary": 4,
     "secondary": 3.5,
     "tertiary": 0,
@@ -22,7 +20,7 @@
         "default"
     ],
     "material": {
-        "items": ["unearthed:phyllite"]
+        "items": ["unearthed:cobbled_phyllite"]
     },
     "requiredTools": {
         "hammer_dig": "minecraft:wood"

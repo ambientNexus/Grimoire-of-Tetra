@@ -1,8 +1,6 @@
 {
     "key": "aspen",
     "category": "wood",
-    "hidden": true,
-    "hiddenOutcomes": true,
     "primary": 3,
     "secondary": 1.7,
     "tertiary": 6,
@@ -21,7 +19,7 @@
         "wooden"
     ],
     "material": {
-        "items": ["byg:aspen_planks", "atmospheric:aspen_planks"]
+        "items": ["byg:aspen_planks"]
     },
     "requiredTools": {
         "axe_dig": "minecraft:wood"

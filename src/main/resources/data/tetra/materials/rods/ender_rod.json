@@ -1,0 +1,26 @@
+{
+  "key": "ender_rod",
+  "primary": 5,
+  "secondary": 0.4,
+  "tertiary": 1,
+  "durability": 142,
+  "integrityCost": 2,
+  "integrityGain": 9,
+  "magicCapacity": 574,
+  "toolLevel": 0,
+  "toolEfficiency": 0,
+  "tints": {
+    "glyph": "0b6759",
+    "texture": "0b6759"
+  },
+  "textures": [
+    "metal",
+    "default"
+  ],
+  "material": {
+    "items": [ "enigmaticlegacy:ender_rod" ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:diamond"
+  }
+}

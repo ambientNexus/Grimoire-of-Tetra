@@ -11,7 +11,7 @@
     "toolLevel": "minecraft:diamond",
     "toolEfficiency": 8,
     "effects": {
-        "armorPenetration": 2
+        "armorPenetration": 25
     },
     "tints": {
         "glyph": "748b77",
