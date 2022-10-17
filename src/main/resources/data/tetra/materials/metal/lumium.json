@@ -1,0 +1,27 @@
+{
+  "key": "lumium",
+  "category": "metal",
+  "primary": 4.6,
+  "secondary": 4.2,
+  "tertiary": 9,
+  "durability": 545,
+  "integrityCost": 2,
+  "integrityGain": 6,
+  "magicCapacity": 146,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 10,
+  "tints":{
+    "glyph": "e2f0b3",
+    "texture": "e2f0b3"
+  },
+  "textures":[
+    "shiny",
+    "default"
+  ],
+  "material":{
+    "tag": "forge:ingots/lumium"
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  }
+}

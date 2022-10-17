@@ -1,0 +1,27 @@
+{
+  "key": "neptunium",
+  "category": "metal",
+  "primary": 9,
+  "secondary": 4.2,
+  "tertiary": 4.9,
+  "durability": 2100,
+  "integrityCost": 2,
+  "integrityGain": 4,
+  "magicCapacity": 158,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 9.1,
+  "tints": {
+    "glyph": "17f1b6",
+    "texture": "17f1b6"
+  },
+  "textures": [
+    "shiny",
+    "default"
+  ],
+  "material": {
+    "tag": "forge:ingots/neptunium"
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  }
+}

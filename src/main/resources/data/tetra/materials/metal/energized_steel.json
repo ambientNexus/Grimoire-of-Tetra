@@ -1,0 +1,27 @@
+{
+  "key": "energized_steel",
+  "category": "metal",
+  "primary": 5,
+  "secondary": 4.6,
+  "tertiary": 4,
+  "durability": 505,
+  "integrityCost": 2,
+  "integrityGain": 5,
+  "magicCapacity": 108,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 8,
+  "tints":{
+    "glyph": "dac5ab",
+    "texture": "dac5ab"
+  },
+  "textures":[
+    "shiny",
+    "default"
+  ],
+  "material":{
+    "items": ["powah:steel_energized"]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  }
+}

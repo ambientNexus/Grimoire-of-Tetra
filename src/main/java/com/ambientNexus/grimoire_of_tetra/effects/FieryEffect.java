@@ -1,11 +1,9 @@
 package com.ambientNexus.grimoire_of_tetra.effects;
 
 import com.ambientNexus.grimoire_of_tetra.util.IEventBusListener;
-import com.ambientNexus.grimoire_of_tetra.util.tetra_definitions.IPercentageHoloDescription;
+import com.ambientNexus.grimoire_of_tetra.util.tetra_definitions.IHoloDescription;
 import com.ambientNexus.grimoire_of_tetra.util.tetra_definitions.ITetraEffect;
 import net.minecraft.client.resources.language.I18n;
-import net.minecraft.world.effect.MobEffectInstance;
-import net.minecraft.world.effect.MobEffects;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraftforge.event.entity.living.LivingHurtEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
@@ -15,20 +13,13 @@ import se.mickelus.tetra.gui.stats.getter.ITooltipGetter;
 
 import java.util.Optional;
 
-public class WitheredEffect implements IPercentageHoloDescription, IEventBusListener {
+public class FieryEffect implements IHoloDescription, IEventBusListener {
 
     @SubscribeEvent
     public void attackEvent(LivingHurtEvent event) {
         if (hasEffect(event.getSource())) {
             LivingEntity targetEntity = event.getEntityLiving();
-            double efficiency = getEffectEfficiency(event.getSource());
-            if (Math.random() < efficiency / 100f) {
-                int currentAmplifier = Optional.ofNullable(targetEntity.getEffect(MobEffects.WITHER))
-                        .map(MobEffectInstance::getAmplifier)
-                        .orElse(-1);
-
-                targetEntity.addEffect(new MobEffectInstance(MobEffects.WITHER, 200, Math.min(currentAmplifier + 1, 2), false, false));
-            }
+            targetEntity.setSecondsOnFire(15);
         }
     }
     @Override
@@ -39,6 +30,6 @@ public class WitheredEffect implements IPercentageHoloDescription, IEventBusList
 
     @Override
     public ItemEffect getEffect() {
-        return ITetraEffect.get("withered");
+        return ITetraEffect.get("fiery");
     }
 }

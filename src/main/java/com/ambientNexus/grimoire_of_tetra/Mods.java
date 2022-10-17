@@ -1,9 +1,6 @@
 package com.ambientNexus.grimoire_of_tetra;
 
-import com.ambientNexus.grimoire_of_tetra.effects.FrostbiteEffect;
-import com.ambientNexus.grimoire_of_tetra.effects.RotbaneEffect;
-import com.ambientNexus.grimoire_of_tetra.effects.ThrenodyEffect;
-import com.ambientNexus.grimoire_of_tetra.effects.WitheredEffect;
+import com.ambientNexus.grimoire_of_tetra.effects.*;
 import com.ambientNexus.grimoire_of_tetra.util.IEventBusListener;
 import com.ambientNexus.grimoire_of_tetra.util.tetra_definitions.IHoloDescription;
 import com.ambientNexus.grimoire_of_tetra.util.tetra_definitions.ITetraEffect;
@@ -24,7 +21,7 @@ import java.util.function.Supplier;
 import java.util.stream.Stream;
 
 public enum Mods {
-	TETRA("tetra", () -> WitheredEffect::new, () -> FrostbiteEffect::new, () -> ThrenodyEffect::new, () -> RotbaneEffect::new); // useful effects outside of specific compat
+	TETRA("tetra", () -> WitheredEffect::new, () -> FrostbiteEffect::new, () -> ThrenodyEffect::new, () -> RotbaneEffect::new, () -> FieryEffect::new); // useful effects outside of specific compat
 
 	public final boolean isLoaded;
 	private final Set<Object> loadedListeners = new HashSet<>();

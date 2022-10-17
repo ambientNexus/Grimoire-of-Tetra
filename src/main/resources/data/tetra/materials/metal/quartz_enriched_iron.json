@@ -1,0 +1,27 @@
+{
+  "key": "quartz_enriched_iron",
+  "category": "metal",
+  "primary": 6,
+  "secondary": 4.4,
+  "tertiary": 3.5,
+  "durability": 360,
+  "integrityCost": 2,
+  "integrityGain": 4,
+  "magicCapacity": 94,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 8.5,
+  "tints":{
+    "glyph": "eeede9",
+    "texture": "eeede9"
+  },
+  "textures":[
+    "shiny",
+    "default"
+  ],
+  "material":{
+    "items": ["refinedstorage:quartz_enriched_iron"]
+  },
+  "requiredTools":{
+    "hammer_dig": "minecraft:iron"
+  }
+}

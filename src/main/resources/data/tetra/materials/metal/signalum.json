@@ -1,0 +1,27 @@
+{
+  "key": "signalum",
+  "category": "metal",
+  "primary": 7.5,
+  "secondary": 6,
+  "tertiary": 8,
+  "durability": 1100,
+  "integrityCost": 3,
+  "integrityGain": 5,
+  "magicCapacity": 152,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 9.5,
+  "tints":{
+    "glyph": "fa631a",
+    "texture": "fa631a"
+  },
+  "textures":[
+    "shiny",
+    "default"
+  ],
+  "material":{
+    "tag": "forge:ingots/signalum"
+  },
+  "requiredTools":{
+    "hammer_dig": "minecraft:iron"
+  }
+}

@@ -10,19 +10,18 @@
   "magicCapacity": 108,
   "toolLevel": "minecraft:iron",
   "toolEfficiency": 4.5,
-
-  "tints": {
+  "tints":{
     "glyph": "c078b4",
     "texture": "c078b4"
   },
-  "textures": [
+  "textures":[
     "shiny",
     "default"
   ],
-  "material": {
+  "material":{
     "items": ["industrialforegoing:pink_slime_ingot"]
   },
-  "requiredTools": {
+  "requiredTools":{
     "hammer_dig": "minecraft:iron"
   }
 }

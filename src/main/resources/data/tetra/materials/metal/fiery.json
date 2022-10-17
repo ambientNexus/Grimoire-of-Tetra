@@ -8,8 +8,11 @@
     "integrityCost": 2,
     "integrityGain": 5,
     "magicCapacity": 60,
-    "toolLevel": "minecraft:netherite",
+    "toolLevel": "minecraft:diamond",
     "toolEfficiency": 9,
+    "improvements": {
+        "grimoire_of_tetra/fiery": 0
+    },
     "tints": {
         "glyph": "dc7404",
         "texture": "dc7404"
