@@ -233,14 +233,15 @@
   "tetra.material.towerwood": "Towerwood",
   "tetra.material.towerwood.prefix": "Towerwood",
 
-  "tetra.material.slate": "Slate",
-  "tetra.material.slate.prefix": "Slate",
+  "tetra.material.shale": "Shale",
+  "tetra.material.shale.prefix": "Shale",
   "tetra.material.limestone": "Limestone",
   "tetra.material.limestone.prefix": "Limestone",
-  "tetra.material.marble": "Marble",
-  "tetra.material.marble.prefix": "Marble",
   "tetra.material.jasper": "Jasper",
   "tetra.material.jasper.prefix": "Jasper",
+
+
+
   "tetra.material.gabbro": "Gabbro",
   "tetra.material.gabbro.prefix": "Gabbro",
   "tetra.material.kimberlite": "Kimberlite",
@@ -253,9 +254,11 @@
   "tetra.material.quartzite.prefix": "Quartzite",
   "tetra.material.rhyolite": "Rhyolite",
   "tetra.material.rhyolite.prefix": "Rhyolite",
-
   "tetra.material.schist": "Schist",
   "tetra.material.schist.prefix": "Schist",
+
+
+
   "tetra.material.blue_geode": "Blue Geode",
   "tetra.material.blue_geode.prefix": "Blue Geode",
   "tetra.material.red_geode": "Red Geode",
@@ -284,7 +287,7 @@
   "tetra.material.nefarious": "Nefarious",
   "tetra.material.nefarious.prefix": "Nefarious",
   "tetra.improvement.grimoire_of_tetra/withered.name": "Withered",
-  "tetra.improvement.grimoire_of_tetra/withered.description": "Infused with the essence of a Wither, all attacks have a percentage chance to cause the target to start to decay, stacking with each successful application.",
+  "tetra.improvement.grimoire_of_tetra/withered.description": "All attacks have a percentage chance to cause the target to start to decay, stacking with each successful application.",
   "grimoire_of_tetra.stats.withered": "Withered",
   "grimoire_of_tetra.stats.withered.tooltip": "Applies stackable Wither effect on hit at a percentage chance.",
 
@@ -331,11 +334,17 @@
   "tetra.material.cloggrum.prefix": "Cloggrum",
   "tetra.material.froststeel": "Froststeel",
   "tetra.material.froststeel.prefix": "Froststeel",
+  "tetra.improvement.grimoire_of_tetra/frostbite.name": "Frostbite",
+  "tetra.improvement.grimoire_of_tetra/frostbite.description": "All attacks have a percentage chance to inflict slowness, stacking with each successful application.",
+  "grimoire_of_tetra.stats.frostbite": "Frostbite",
+  "grimoire_of_tetra.stats.frostbite.tooltip": "Applies stackable slowness effect on hit at a percentage chance.",
   "tetra.material.utherium": "Utherium",
   "tetra.material.utherium.prefix": "Utherium",
+  "tetra.improvement.grimoire_of_tetra/rotbane.name": "Rotbane",
+  "tetra.improvement.grimoire_of_tetra/rotbane.description": "Rot-type enemies will take 50% more damage.",
   "tetra.material.forgotten": "Forgotten Metal",
   "tetra.material.forgotten.prefix": "Forgotten",
-  "tetra.improvement.grimoire_of_tetra/threnody.name": "Threnody of the Deep",
+  "tetra.improvement.grimoire_of_tetra/threnody.name": "Threnody",
   "tetra.improvement.grimoire_of_tetra/threnody.description": "All Undergarden mobs take 50% more damage.",
 
   "tetra.material.grongle": "Grongle",
