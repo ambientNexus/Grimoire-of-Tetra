@@ -19,7 +19,7 @@
         "wooden"
     ],
     "material": {
-        "items": ["byg:willow_planks", "environmental:willow_planks", "biomesoplenty:willow_planks"]
+        "items": ["byg:willow_planks"]
     },
     "requiredTools": {
         "axe_dig": "minecraft:wood"

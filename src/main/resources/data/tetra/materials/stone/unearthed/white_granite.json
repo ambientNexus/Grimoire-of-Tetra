@@ -1,0 +1,28 @@
+{
+  "key": "white_granite",
+  "category": "stone",
+  "primary": 4,
+  "secondary": 3.5,
+  "tertiary": 0,
+  "durability": 180,
+  "integrityCost": 1,
+  "integrityGain": 4,
+  "magicCapacity": 90,
+  "toolLevel": "minecraft:stone",
+  "toolEfficiency": 4.5,
+  "tints": {
+    "glyph": "cabfb4",
+    "texture": "cabfb4"
+  },
+  "textures": [
+    "grainy",
+    "crude",
+    "default"
+  ],
+  "material": {
+    "items": ["unearthed:white_granite"]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:wood"
+  }
+}
