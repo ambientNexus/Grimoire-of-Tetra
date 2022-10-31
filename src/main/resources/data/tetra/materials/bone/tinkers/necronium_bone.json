@@ -1,5 +1,5 @@
 {
-    "key": "necronium",
+    "key": "necronium_bone",
     "category": "bone",
     "primary": 7.5,
     "secondary": 4.5,
@@ -19,7 +19,7 @@
         "crude"
     ],
     "material": {
-        "items": "tconstruct:necronium_bone"
+        "items": ["tconstruct:necronium_bone"]
     },
     "effects": {
         "unstable": 15

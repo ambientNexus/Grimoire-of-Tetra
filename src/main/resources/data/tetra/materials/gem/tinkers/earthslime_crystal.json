@@ -1,0 +1,27 @@
+{
+  "key": "earthslime_crystal",
+  "category": "gem",
+  "primary": 5,
+  "secondary": 2.7,
+  "tertiary": 0,
+  "durability": 850,
+  "integrityCost": 2,
+  "integrityGain": 2,
+  "magicCapacity": 72,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 7,
+  "tints": {
+    "glyph": "afedb1",
+    "texture": "afedb1"
+  },
+  "textures": [
+    "shiny",
+    "crude"
+  ],
+  "material": {
+    "items": [ "tconstruct:earth_slime_crystal" ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:stone"
+  }
+}
