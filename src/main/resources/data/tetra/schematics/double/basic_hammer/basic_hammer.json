@@ -9,17 +9,6 @@
   "outcomes": [
     {
       "material": {
-        "items": ["cagedmobs:star_infused_netherite_ingot"],
-        "count": 2
-      },
-      "requiredTools": {
-        "hammer_dig": 7
-      },
-      "moduleKey": "double/basic_hammer",
-      "moduleVariant": "basic_hammer/star_infused_netherite"
-    },
-    {
-      "material": {
         "items": ["byg:pendorite_ingot"]
       },
 
@@ -41,13 +30,43 @@
     },
     {
       "material": {
-        "items": ["enderitemod:enderite_ingot"]
+        "items": ["botania:gaia_ingot"]
+      },
+      "requiredTools": {
+        "hammer_dig": 7
+      },
+      "moduleKey": "double/basic_hammer",
+      "moduleVariant": "basic_hammer/gaia"
+    },
+    {
+      "material": {
+        "items": ["mekanism:ingot_refined_obsidian"]
       },
       "requiredTools": {
         "hammer_dig": 6
       },
       "moduleKey": "double/basic_hammer",
-      "moduleVariant": "basic_hammer/enderite"
+      "moduleVariant": "basic_hammer/refined_obsidian"
+    },
+    {
+      "material": {
+        "items": ["tconstruct:manyullyn_ingot"]
+      },
+      "requiredTools": {
+        "hammer_dig": 6
+      },
+      "moduleKey": "double/basic_hammer",
+      "moduleVariant": "basic_hammer/manyullyn"
+    },
+    {
+      "material": {
+        "items": ["tconstruct:hepatizon_ingot"]
+      },
+      "requiredTools": {
+        "hammer_dig": 6
+      },
+      "moduleKey": "double/basic_hammer",
+      "moduleVariant": "basic_hammer/hepatizon"
     }
   ]
 }
