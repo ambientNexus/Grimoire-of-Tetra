@@ -136,9 +136,8 @@ dependencies {
     minecraft "net.minecraftforge:forge:${minecraft_version}-${forge_version}"
     implementation fg.deobf("se.mickelus.mutil:mutil:${mutil_version}")
     implementation fg.deobf("se.mickelus.tetra:tetra:${tetra_version}")
-    implementation fg.deobf("com.simibubi.create:create-${minecraft_version}:${create_version}:all") { transitive = false }
-    implementation fg.deobf("com.jozufozu.flywheel:flywheel-forge-${minecraft_version}:${flywheel_version}")
     implementation fg.deobf("curse.maven:undergarden-379849:${undergarden_version}")
+    implementation fg.deobf("curse.maven:tetrutils-678779:4275797")
 
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 }

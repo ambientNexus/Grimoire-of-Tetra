@@ -21,7 +21,7 @@ import java.util.function.Supplier;
 import java.util.stream.Stream;
 
 public enum Mods {
-	TETRA("tetra", () -> WitheredEffect::new, () -> FrostbiteEffect::new, () -> ThrenodyEffect::new, () -> RotbaneEffect::new, () -> FieryEffect::new); // useful effects outside of specific compat
+	TETRA("tetra", () -> ThrenodyEffect::new, () -> RotbaneEffect::new, () -> FieryEffect::new); // useful effects outside of specific compat
 
 	public final boolean isLoaded;
 	private final Set<Object> loadedListeners = new HashSet<>();

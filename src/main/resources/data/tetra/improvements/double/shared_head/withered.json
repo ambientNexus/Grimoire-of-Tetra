@@ -3,10 +3,8 @@
     "key": "grimoire_of_tetra/withered",
     "level": 0,
     "effects": {
-      "grimoire_of_tetra:withered": [
-        1,
-        15
-      ]
+      "tetrutils:mob_effect_stacking-minecraft:wither-3,100,0.2": 1,
+      "tetrutils:tipped": 1
     }
   }
 ] 
