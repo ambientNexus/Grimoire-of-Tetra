@@ -199,8 +199,10 @@
   "tetra.material.steeleaf.prefix": "Steeleaf",
   "tetra.material.knightmetal": "Knightmetal",
   "tetra.material.knightmetal.prefix": "Knightly",
+
   "tetra.material.naga_scale": "Naga Scale",
   "tetra.material.naga_scale.prefix": "Naga Scale",
+
   "tetra.material.twilightoak": "Twilight Oak",
   "tetra.material.twilightoak.prefix": "Twilight Oak",
   "tetra.material.canopy": "Canopy",
@@ -269,8 +271,6 @@
 
   "tetra.material.etherium": "Etherium",
   "tetra.material.etherium.prefix": "Etherium",
-  "tetra.material.ender_rod": "Ender Rod",
-  "tetra.material.ender_rod.prefix": "Ender Rod",
   "tetra.material.nefarious": "Nefarious",
   "tetra.material.nefarious.prefix": "Nefarious",
   "tetra.improvement.grimoire_of_tetra/withered.name": "Withered",
@@ -278,12 +278,20 @@
   "grimoire_of_tetra.stats.withered": "Withered",
   "grimoire_of_tetra.stats.withered.tooltip": "§7Applies stackable Wither effect on hit at a §e20%%§7 chance.",
 
+  "tetra.material.ender_rod": "Ender Rod",
+  "tetra.material.ender_rod.prefix": "Ender Rod",
+
 
 
   "tetra.material.alfsteel": "Alfsteel",
   "tetra.material.alfsteel.prefix": "Alfsteel",
   "tetra.material.gaia": "Gaia",
   "tetra.material.gaia.prefix": "Gaia",
+
+  "tetra.material.dragonstone": "Dragonstone",
+  "tetra.material.dragonstone.prefix": "Dragonstone",
+  "tetra.material.mana_diamond": "Mana Diamond",
+  "tetra.material.mana_diamond.prefix": "Mana Diamond",
 
 
   "tetra.material.star_infused_netherite": "Star Infused Netherite",
@@ -302,6 +310,15 @@
   "tetra.material.energized_steel": "Energized Steel",
   "tetra.material.energized_steel.prefix": "Energized Steel",
 
+  "tetra.material.blazing": "Blazing",
+  "tetra.material.blazing.prefix": "Blazing",
+  "tetra.material.niotic": "Niotic",
+  "tetra.material.niotic.prefix": "Niotic",
+  "tetra.material.spirited": "Spirited",
+  "tetra.material.spirited.prefix": "Spirited",
+  "tetra.material.Nitro": "Nitro",
+  "tetra.material.Nitro.prefix": "Nitro",
+
 
   "tetra.material.compressed_iron": "Compressed Iron",
   "tetra.material.compressed_iron.prefix": "Compressed Iron",
@@ -315,6 +332,8 @@
   "tetra.material.constantan.prefix": "Constantan",
   "tetra.material.uranium": "Uranium",
   "tetra.material.uranium.prefix": "Uranium",
+  "tetra.material.invar": "Invar",
+  "tetra.material.invar.prefix": "Invar",
 
 
   "tetra.material.neptunium": "Neptunium",
@@ -448,6 +467,14 @@
 
   "tetra.material.fluix": "Fluix",
   "tetra.material.fluix.prefix": "Fluix",
+
+
+  "tetra.material.signalum": "Signalum",
+  "tetra.material.signalum.prefix": "Signalum",
+  "tetra.material.lumium": "Lumium",
+  "tetra.material.lumium.prefix": "Lumium",
+  "tetra.material.enderium": "Enderium",
+  "tetra.material.enderium.prefix": "Enderium",
 
 
   "tetra.material.prismarine": "Prismarine",

@@ -1,15 +1,15 @@
 {
   "key": "gaia",
   "category": "metal",
-  "primary": 11,
-  "secondary": 4.7,
-  "tertiary": 10.8,
+  "primary": 11.7,
+  "secondary": 5.2,
+  "tertiary": 4.8,
   "durability": 2730,
-  "integrityCost": 4,
+  "integrityCost": 3,
   "integrityGain": 8,
-  "magicCapacity": 208,
+  "magicCapacity": 273,
   "toolLevel": "minecraft:netherite",
-  "toolEfficiency": 13.5,
+  "toolEfficiency": 7.5,
   "tints": {
     "glyph": "cebdf5",
     "texture": "cebdf5"

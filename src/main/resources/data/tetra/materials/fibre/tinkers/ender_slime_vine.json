@@ -19,7 +19,7 @@
         "default"
     ],
     "material": {
-        "items": [ "tconstruct:sky_slime_vine" ]
+        "items": [ "tconstruct:ender_slime_vine" ]
     },
     "requiredTools": {
         "cut": "minecraft:wood"

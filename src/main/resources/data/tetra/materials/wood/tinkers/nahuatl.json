@@ -14,7 +14,9 @@
         "glyph": "472f8c",
         "texture": "7a5c5b"
     },
-    "textures": [ "crude" ],
+    "textures": [
+        "crude"
+    ],
     "material": {
         "items": [ "tconstruct:nahuatl" ]
     },
